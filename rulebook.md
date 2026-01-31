@@ -449,16 +449,16 @@ Place the helper card face-up in your next available helper slot (1, 2, or 3) on
 
 > **Money Help Examples:**
 > - "Grandma says she can send you what she has immediately or she can save up and give you more just before the wedding. Take 1 coin now, OR take 3 coins at the beginning of Month 12."
-> - "Future In-Laws say they can help a bit now but they'd be willing to pitch in a bit more once they see (and approve of) the guest list. take 1 coin now, OR Take 3 coins once the *Create Guest List* task is complete."
+> - "Future In-Laws say they can help a bit now, but they'd be willing to pitch in a bit more once they see (and approve of) the guest list. Take 1 coin now, OR take 3 coins once the *Create Guest List* task is complete."
 >
 
 > **Effort Help Examples:**
 > - "College Friend says they can help a bit today, but once they wrap up this semester they can help out more. Apply 1 effort to any unlocked task immediately, OR gain 3 effort to use on any unlocked task after the next Check-In."
-> - "Maid of Honor would love to help with the bridal shower, but if you have other plans she can help with whatever. Immediately complete the *Plan Bridal Shower* task, OR apply 1 effort to any non-key task immediately."
+> - "Maid of Honor would love to help with the bridal shower, but if you have other plans she can help with whatever. Immediately apply effort to complete the *Plan Bridal Shower* task, OR apply 1 effort to any unlocked, non-key task immediately."
  
 > **Research Help Examples:**
 > - "Foodie Friend knows a couple great places that might work. Reveal the top 2 Food & Drink vendors, keep 1, bottom the other."
-> - "Mother-in-Law wants to help but you don't always see eye-to-eye. Choose another player to act as MIL. They suggest a vendor from an unbooked category. Draw the top card from that category. You may keep or discard to the FVR. If discarded, they suggest a different category. You keep this one."
+> - "Mother-in-Law wants to help but you don't always see eye-to-eye. Choose another player to act as MIL. They suggest a vendor from a category you have not booked yet. Draw the top card from that category. You may keep or discard this vendor. If discarded, they suggest a different unbooked category. Draw the top card from this second category. You may keep or discard this vendor as well. All discarded vendors go to the Featured Vendor Row."
 
 ---
 
