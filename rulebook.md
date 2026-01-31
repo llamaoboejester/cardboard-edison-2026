@@ -272,7 +272,7 @@ After month 12, proceed directly to **End of Game** (no Check-In).
 
 *It's Month 5 and it's Jennifer's turn. Her meeple is currently on Plan. She has 3 vendors in hand and 8 coins.*
 
-**1. Choose Action:** Since her meeple is on Plan, she cannot choose to Plan this month again. Jennifer instead chooses the Book action and moves her meeple to Book on her player board.
+**1. Choose Action:** At the start of her turn, Jennifer must move her meeple, so she cannot Plan again while it is already on Plan. She instead chooses the Book action and moves her meeple to Book on her player board.
 
 **2. Resolve Action:** Jennifer plays a 2-cost, 2-excitement Flowers & Decorations vendor (Nature + Elegance) from her hand, pays 2 coins, and places it in grid position 1 (top-left).
 - She advances Nature +1 and Elegance +1 on her theme element trackers
