@@ -287,7 +287,7 @@ After month 12, proceed directly to **End of Game** (no Check-In).
 
 ## 5. ACTIONS IN DETAIL
 
-### RESEARCH ACTION
+### Research Action
 
 Acquire venue or vendor cards to your hand.
 
@@ -310,7 +310,7 @@ Flip the top Research card. It shows 4 vendor categories. Either
 
 ---
 
-### BOOK ACTION
+### Book Action
 
 Place a vendor or venue from your hand into your 3×3 grid.
 
@@ -369,9 +369,9 @@ Immediately take the bonus action shown on the grid space where you booked:
 Do **not** move your meeple when taking bonus actions.
 
 **Fallbacks:**
-- If forced to take a Book bonus but cannot (no cards/no space): Gain +1 excitement instead
-- If forced to take a Plan bonus but cannot (no unlocked incomplete tasks): Gain +1 excitement instead
-- If forced to take a Help bonus but cannot (all three helpers already taken): Gain +1 excitement instead
+- If forced to take a Book bonus but you cannot (no cards/no space): Gain +1 excitement instead
+- If forced to take a Plan bonus but you cannot (no unlocked incomplete tasks): Gain +1 excitement instead
+- If forced to take a Help bonus but you cannot (all three helpers already taken): Gain +1 excitement instead
 
 > **DIY Bookings**
 > 
@@ -387,7 +387,7 @@ Do **not** move your meeple when taking bonus actions.
 
 ---
 
-### PLAN ACTION
+### Plan Action
 
 Apply effort toward completing tasks on your visible worksheet.
 
@@ -438,7 +438,7 @@ If you've contracted with your Wedding Planner, you have a separate pool of **3 
 
 ---
 
-### HELP ACTION
+### Help Action
 
 Draw from one of three shared Help decks to gain resources or bonuses.
 
