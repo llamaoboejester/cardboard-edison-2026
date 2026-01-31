@@ -151,7 +151,7 @@ Each player performs these steps:
 Take a player board and place it in front of you.
 
 **2. Take Task Worksheet**
-Take a blank task worksheet and place it on your player board in the task area.
+Take a task worksheet and place it on your player board in the task area.
 
 **3. Take a set of Goals**
 Take a complete set of goals (theme, budget, excitement, and guest goals) and place them next to your player board.
