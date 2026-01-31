@@ -190,7 +190,7 @@ The first player is the player whose wedding is the closest (either in the past 
 The first player takes the Timeline token and sets it to Month 1 on the timeline.
 
 **3. Seed Featured Vendor Row**
-The first player chooses 5 distinct vendor categories. Reveal 1 card from each chosen category and place face-up in the Featured Vendor Row at the bottom of the Research board.
+The first player chooses 5 distinct vendor categories. Reveal 1 card from each chosen category and place face-up in the Featured Vendor Row at the bottom of the Research board. The Featured Vendor Row (FVR) is a shared display that may contain vendors and, later in the game, venues.
 
 > **Note:** By default, everyone starts with no vendors in hand.
 
