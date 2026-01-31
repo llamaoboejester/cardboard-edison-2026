@@ -110,7 +110,7 @@ Shuffle all 9 vendor category decks separately. Place them face-down on the Rese
 **4. Prepare Venue Deck**
 Shuffle all 12 venue cards and place face-down on the Research Board in the Venue space.
 >**Competitive Venue Variant (Advanced):**
-Use 2nd copy of each core venue in the venue deck (24 venues total). Once a Venue is booked, the other copy is immediately unavailable and removed from the game. 
+Use the provided 2nd copy of each standard venue in the venue deck (24 venues total). Once a Venue is booked, the other copy of the exact same venue is immediately unavailable and removed from the game.
 
 **5. Prepare Research Deck**
 Shuffle the Research cards and place face-down on the Research space.
