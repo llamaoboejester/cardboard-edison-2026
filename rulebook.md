@@ -985,7 +985,7 @@ The player with the most gifts wins!
 
 ## Designer Notes
 
-The Wedding Planner began as a love letter to the wedding planning process - the overwhelming task lists, the hunt for the perfect vendors, the tension between vision and budget. After three years of development and more than a hundred hours of playtesting, the game has evolved into a medium-weight euro that celebrates weddings in all their forms.
+The Wedding Planner began as a love letter to the wedding planning process - the overwhelming task lists, the hunt for the perfect vendors, the tension between vision and budget. After three years of brainstorming, design, and development and more than a hundred hours of playtesting, the game has evolved into a medium-weight euro that celebrates weddings in all their forms.
 
 Special thanks to our playtesters, whose feedback has shaped every system. To the couples who shared their wedding stories. To everyone who sees themselves in this game.
 
