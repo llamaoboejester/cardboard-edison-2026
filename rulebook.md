@@ -481,7 +481,7 @@ Place the helper card face-up in your next available helper slot (1, 2, or 3) on
 
 Your wedding's **theme** is the aesthetic vision that ties your choices together. The theme system uses five elements that appear on vendor and venue cards.
 
-#### The Five Elements (WENTL)
+#### The Five Theme Elements
 
 1. **Whimsy** (pink spiral) - Playful, magical, whimsical
 2. **Edge** (purple lightning) - Bold, modern, unconventional
