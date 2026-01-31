@@ -394,7 +394,7 @@ Apply effort toward completing tasks on your visible worksheet.
 **Steps:**
 
 **1. Apply 3 Effort**
-Distribute **3 effort marks** across any unlocked tasks on your worksheet. An unlocked task is one whose requirements are already met. (A task with no requirements is unlocked by default.)
+Distribute **3 effort marks** across any unlocked tasks on your worksheet. An unlocked task is one whose requirements are already met. A requirement can be either a key task, a required booking, or both. (A task with no requirements is unlocked by default.)
 
 You may apply all 3 marks to a single task, or split them across multiple tasks.
 
@@ -408,9 +408,22 @@ When all effort boxes on a task are filled, the task immediately completes:
 - **If key task:** Unlock all related tasks below it
 
 **Key Tasks:**
-- **Choose Wedding Party:** 1 gift, 3 effort boxes. 3rd box grants +1 excitement.
-- **Conduct Vendor Tastings:** 2 gifts, 3 effort boxes. 3rd box grants +1 excitement.
-- **Create Guest List:** 3 gifts, 4 effort boxes. 4th box grants +1 excitement.
+Each key task conditionally unlocks three dependent tasks. Those tasks may still require a booking in order to be fully unlocked.
+> **Note:** Key tasks can never be worked on by anyone other than you. (Not helpers or planners)
+> 
+Here's a list of the three key tasks:
+- **Choose Wedding Party:** worth 1 gift when completed, requires 3 total effort. Completing this task additionally grants +1 excitement and immediately satisfies the Key requirement for:
+  - *Host Rehearsal Dinner* (now unlocked)
+  - *Host Post-Wedding Brunch* (now unlocked)
+  - *Plan Wedding Party Processional* (now unlocked)
+- **Conduct Vendor Tastings:** worth 2 gifts when completed, requires 3 total effort. Completing this task additionally grants +1 excitement and immediately satisfies the Key requirement for:
+  - *Design Signature Drink* (now unlocked)
+  - *Finalize Menu Selections* (still potentially locked until you book any Food and Drink vendor)
+  - *Order Wedding Cake* (still potentially locked until you book any Food and Drink vendor) 
+- **Create Guest List:** worth 3 gifts when completed, requires 4 total effort. Completing this task additionally grants +1 excitement and immediately satisfies the Key requirement for:
+  - *Send Save-the-Dates* (still potentially locked until you book any Stationery vendor)
+  - *Mail Wedding Invitations* (still potentially locked until you book any Stationery vendor)
+  - *Create Seating Chart* (still potentially locked until you book any Venue)
 
 **3. Wedding Planner Effort (Optional)**
 If you've contracted with your Wedding Planner, you have a separate pool of **3 effort** that can be applied to unlocked, non-key tasks. This effort is also tracked on your Wedding Planner card. You may use planner effort at any time on your turn.
