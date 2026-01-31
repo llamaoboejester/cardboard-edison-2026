@@ -9,3 +9,5 @@ At the heart of the game is your 3×3 vendor grid. Every booking triggers cascad
 There is never enough time, never enough money, and never a perfect solution. There are only the hard choices between the wedding you want and the wedding you can pull off, even with the support of family and friends.
 
 *From the initial "Yes!" to the final "I do!" every wedding tells a story. What will yours be?*
+
+#### [VIEW THE RULEBOOK](rulebook.md)
