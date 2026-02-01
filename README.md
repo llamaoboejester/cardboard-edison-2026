@@ -11,4 +11,4 @@ There is never enough time, never enough money, and never a perfect solution. Th
 *From the initial "Yes!" to the final "I do!" every wedding tells a story. What will yours be?*
 
 --- 
-#### Additional Information: [View the Rulebook](rulebook.md) | [Watch the Video](https://youtube.com)
+#### Additional Information: [View the Rulebook](rulebook.md) | [Watch the Gameplay Video](https://www.youtube.com/watch?v=6Hi0hHUp1FA) | [Watch the Teaser](https://llamaoboejester.com/)
