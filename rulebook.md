@@ -7,7 +7,7 @@
 
 ## 1. INTRODUCTION
 
-You just got engaged! You have exactly one year to plan the wedding of your dreams. Research venues and vendors, book them into your wedding, tackle the never-ending to-do list, and lean on friends and family when it gets overwhelming , all while building excitement for the big day.
+You just got engaged! You have exactly one year to plan the wedding of your dreams. Research venues and vendors, book them into your wedding, tackle the never-ending to-do list, and lean on friends and family when it gets overwhelming, all while building excitement for the big day.
 
 The game plays over **12 months** organized into **4 quarters**. Between quarters, you'll pause for a **Check-In** to set goals and prepare for the next quarter.
 
@@ -57,54 +57,44 @@ The game plays over **12 months** organized into **4 quarters**. Between quarter
 
 ## 3. SETUP
 
+> **First Game?** For Moments, use *The Aisle*, *The Promise*, and *The Union*. For Awards, use *First to Excitement* and *Most Well-Rounded*.
+
+> **Variant: Competitive Venue** Use the provided 2nd copy of each standard venue in the venue deck (24 venues total). Once a Venue is booked, the other copy is immediately removed from the game, even if it is in a player's hand.
+
 Follow these steps in order:
 
 ### Shared Setup
 
-**1. Place Game Board**
-Place the Game Board in the center of the table, accessible to everyone.
+**1. Place Boards**
+Place the Game Board and Research Board in the center of the table, accessible to everyone.
 
-**2. Place Research Board**
-Place the Research Board in the center of the table, accessible to everyone.
-
-**3. Prepare Vendor Decks**
+**2. Prepare Vendor Decks**
 Shuffle all 9 vendor category decks separately. Place them face-down on the Research board in their designated category spaces.
 
-**4. Prepare Venue Deck**
+**3. Prepare Venue Deck**
 Shuffle all 12 venue cards and place face-down on the Research Board in the Venue space.
->**Competitive Venue Variant (Advanced):**
-Use the provided 2nd copy of each standard venue in the venue deck (24 venues total). Once a Venue is booked, the other copy of the exact same venue is immediately unavailable and removed from the game, even if it is in a player's hand.
 
-**5. Prepare Research Deck**
+**4. Prepare Research Deck**
 Shuffle the Research cards and place face-down on the Research space.
 
-**6. Prepare Theme Deck**
+**5. Prepare Theme Deck**
 Shuffle the Theme deck and place face-down near the play area.
 
-**7. Prepare Help Decks**
-Separate the 18 Help cards into three decks by type:
-- **Money Help** (6 cards) - shuffle and place face-down on the Game Board
-- **Effort Help** (6 cards) - shuffle and place face-down on the Game Board
-- **Research Help** (6 cards) - shuffle and place face-down on the Game Board
+**6. Prepare Help Decks**
+Separate the 18 Help cards into three decks by type (Money, Effort, Research, 6 cards each). Shuffle each and place face-down on the Game Board.
 
-**8. Reveal Moment Cards**
+**7. Reveal Moment Cards**
 Separate the 16 Moment cards into three decks by size (Small, Medium, Large). Either:
 - **Standard game:** Randomly draw 1 Small, 1 Medium, and 1 Large Moment
-- **Advanced game:** Shuffle all Moment cards together and randomly draw 3 Moments 
-> **First Game Tip:** Use *The Aisle*, *The Promise*, and *The Union*
+- **Advanced game:** Shuffle all Moment cards together and randomly draw 3 Moments
 
 Place the chosen Moments face-up (showing first completer values) on the Game Board.
 
-**9. Reveal Award Cards**
-Shuffle the 10 Award cards. Either:
-- **Standard game:** Randomly draw 1 Race Award and 1 Endgame Award
-> **First Game Tip:** Use *First to Excitement* and *Most Well-Rounded*
+**8. Reveal Award Cards**
+Shuffle the 10 Award cards. Randomly draw 1 Race Award and 1 Endgame Award. Place both face-up on the Game Board.
 
-Place the chosen Awards face-up on the Game Board.
-
-**10. Prepare Personality Deck**
+**9. Prepare Personality Deck**
 Shuffle the Personality deck and place face-down near the play area.
-> **First Game Tip:** - Skip Personalities entirely
 
 ### Player Setup
 
@@ -120,9 +110,7 @@ Take a task worksheet and place it on your player board in the task area.
 Take a complete set of goals (theme, budget, excitement, and guest goals) and place them next to your player board.
 
 **4. Draft Personality**
-Shuffle the Personality deck. Each player draws 2 Personality cards, chooses 1, and discards the other face-down.
-
-> **First Game Tip:** Skip Personalities entirely
+Each player draws 2 Personality cards, chooses 1, and discards the other face-down.
 
 **5. Receive Starting Coins**
 Take your starting 12 coins.
@@ -131,9 +119,7 @@ Take your starting 12 coins.
 Draw 2 Theme cards from the Theme deck. Keep both hidden from everyone. You'll choose 1 at the first Check-In.
 
 **7. Receive a Wedding Planner Contract**
-Draw 1 Wedding Planner Contract randomly. Place your Wedding Planner contract near your player board. You can contract with your planner later in the game if desired.
-
-> **First Game Tip:** Skip Wedding Planner Contracts entirely
+Draw 1 Wedding Planner Contract randomly. Place it near your player board. You can contract with your planner later in the game if desired.
 
 **8. Set Up Trackers**
 - Place your **Theme Element Trackers** on position 0 of each theme element track on your player board
@@ -141,8 +127,8 @@ Draw 1 Wedding Planner Contract randomly. Place your Wedding Planner contract ne
 - Place your **Completed Tasks Tracker** on position 0 of the completed tasks track on your player board
 - Place your **Meeple** on your Vision board area (starting position)
 
-**9. Personality-Specific Setup**
-- If playing with Personalities, follow the initial setup outlined on your chosen personality card. This may include a change to your starting coins, vendors in hand, initial progress toward tasks, excitement, or other modifications like hand-limit size, etc.
+**9. Apply Personality Setup**
+If playing with Personalities, follow the setup instructions on your chosen Personality card. These may modify your starting coins, hand, trackers, or other components established in the steps above.
 
 ### Final Shared Steps
 
@@ -152,17 +138,15 @@ The first player is the player whose wedding is the closest (either in the past 
 **2. Initialize Timeline**
 The first player takes the Timeline token and sets it to Month 1 on the timeline.
 
-**3. Seed Featured Vendor Row**
-The first player chooses 5 distinct vendor categories. Reveal 1 card from each chosen category and place face-up in the Featured Vendor Row at the bottom of the Research board. The Featured Vendor Row (FVR) is a shared display that may contain vendors and, later in the game, venues.
-
-> **Note:** By default, everyone starts with no vendors in hand.
+**3. Seed Featured Vendor Row (FVR)**
+The Featured Vendor Row is a shared face-up display at the bottom of the Research board. It starts empty and will fill with vendors (and later, venues) throughout the game. To seed it: the first player chooses 5 distinct vendor categories and reveals 1 card from each, placing them face-up in the FVR.
 
 ### Setup Complete!
 
 Your table should now show:
 - Game board in the center with 3 shared help decks, 3 Moment cards, 2 Award cards, and the Timeline token on Month 1
 - Research board in center with category decks, venue deck, research deck, and 5 face-up cards in Featured Vendor Row
-- Each player with board, a set of goals, meeple on Vision, trackers at 0, 2 Theme cards in hand, Wedding Planner contract visible, and starting coins.
+- Each player with board, a set of goals, meeple on Vision, trackers at 0, 2 Theme cards in hand, Personality card visible, Wedding Planner contract visible, and starting coins.
 
 The first player begins Month 1!
 
