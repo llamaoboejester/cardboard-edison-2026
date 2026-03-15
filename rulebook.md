@@ -2,38 +2,26 @@
 
 **For 2-4 Players | Ages 10+ | 60-90 Minutes**
 
-Designed by Jose Lema
-
 ---
 
 
 ## 1. INTRODUCTION
 
-You just got engaged! You have exactly one year to plan the wedding of your dreams. Over the next 12 months, you'll book vendors, complete planning tasks, gather help from friends and family, and build excitement for your big day.
-
-**Victory:** You win if you have the most **gifts** at the end of the game. Gifts represent the memories, experiences, and joy your wedding creates.
-
-**What You'll Do:**
-- **Research venues and vendors** to find the perfect fit
-- **Book venues and vendors** into your 3×3 grid to unlock tasks and trigger cascading effects 
-- **Complete planning tasks** from your visible to-do list
-- **Get help** from friends, family, and professionals
-- **Build theme and excitement** as your wedding takes shape
-- **Set personal goals** that reflect your wedding vision
-- **Race to complete moments** which represent ceremony highlights as exclusive spatial patterns
-- **Compete for awards** against your fellow players
+You just got engaged! You have exactly one year to plan the wedding of your dreams. Research venues and vendors, book them into your wedding, tackle the never-ending to-do list, and lean on friends and family when it gets overwhelming , all while building excitement for the big day.
 
 The game plays over **12 months** organized into **4 quarters**. Between quarters, you'll pause for a **Check-In** to set goals and prepare for the next quarter.
+
+**You win by having the most gifts at the end of the game.** Gifts represent the memories, experiences, and joy your wedding creates.
 
 ---
 
 ## 2. COMPONENTS
 
 ### Player Components (×4 sets)
-- **1 Player Board** with vision board, 3×3 booking grid, task worksheet, helper area
-- **1 Set of Trackers and pawns** for theme elements (5), excitement, and completed tasks
-- **1 Set of Goals** for theme (4), budget (3), excitement (3), and guest (9) goals
-- **1 Meeple** (for action selection)
+- **1 Player Board**
+- **1 Set of Trackers and pawns**
+- **1 Set of Goals** (4 Theme, 3 Budget, 3 Excitement, 9 Guest)
+- **1 Meeple**
 
 ### Shared Components
 
@@ -48,47 +36,22 @@ The game plays over **12 months** organized into **4 quarters**. Between quarter
   - Entertainment (12)
   - Favors & Gifts (12)
   - Transportation (12)
-- **12 Venue cards** each including a unique "When Booked" effect
-- **8 Wedding Planner Contracts** each including a unique and exclusive Venue
-- **10 Theme cards** each showing a named pair of theme elements
-- **8 Double-sided Personality cards** each with unique setup, individual powers, and one-time abilities
-- **18 Help cards** across 3 shared decks: 6 Money Help, 6 Effort Help, 6 Research Help
-- **16 Double-sided Moment cards** split into small (4), medium (8), and large sizes (4)
-- **10 Award cards** split into 5 race awards and 5 endgame awards
-- **18 Research cards** each showing 4 distinct vendor categories
+- **12 Venue cards**
+- **8 Wedding Planner Contracts**
+- **10 Theme cards**
+- **8 Double-sided Personality cards**
+- **18 Help cards** (6 Money, 6 Effort, 6 Research)
+- **16 Double-sided Moment cards** (4 Small, 8 Medium, 4 Large)
+- **10 Award cards** (5 Race, 5 Endgame)
+- **18 Research cards**
 
 **Boards & Tokens:**
-- **1 Game Board** with spaces for timeline, help decks, selected moments, and selected awards
-- **1 Research Board** with spaces for the venue deck, the 9 vendor category decks, and the Featured Vendor Row
+- **1 Game Board**
+- **1 Research Board**
 - **1 First Player token**
 - **1 Timeline token**
-- **100 Gift tokens** in sizes of 1 (40), 5 (20), 10 (20), 25 (20)
-- **60 Coin tokens** in values of 1 (48), 5 (12)
-
-### Iconography
-
-**Theme Elements:**
-- **Whimsy** - Pink spiral
-- **Edge** - Purple lightning bolt
-- **Nature** - Green leaf
-- **Tradition** - Maroon rings
-- **Elegance** - Gold diamond
-
-**Vendor Categories:**
-- Officiant icon (Ceremony)
-- Envelope icon (Stationery)
-- Dress icon (Attire & Accessories)
-- Camera icon (Photography)
-- Rose icon (Flowers & Decorations)
-- Fork & plate icon (Food & Drink)
-- Musical note icon (Entertainment)
-- Gift boxes icon (Favors & Gifts)
-- Carriage icon (Transportation)
-
-**Miscellaneous:**
-- **Coins** - Gold coin
-- **Excitement** - Blue burst
-- **Gifts** - Gift box
+- **100 Gift tokens**
+- **60 Coin tokens**
 
 ---
 
