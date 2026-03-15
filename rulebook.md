@@ -154,13 +154,7 @@ The first player begins Month 1!
 
 ## 4. HOW TO PLAY
 
-The Wedding Planner plays over **12 months** organized into **4 quarters**:
-- **Q1:** Months 1-3
-- **Q2:** Months 4-6
-- **Q3:** Months 7-9
-- **Q4:** Months 10-12
-
-After months 3, 6, and 9, everyone participates in a **Check-In** before continuing to the next quarter.
+The Wedding Planner plays over **12 months** in **4 quarters**: Q1 (1-3), Q2 (4-6), Q3 (7-9), Q4 (10-12). After months 3, 6, and 9, everyone participates in a **Check-In** before continuing to the next quarter.
 
 ### Turn Structure
 
@@ -172,17 +166,14 @@ On your turn:
 
 #### 1. Choose and Move to an Action
 
-Choose ONE of these four actions:
-- **Research** - Acquire vendor or venue cards
-- **Book** - Place a vendor or venue in your 3×3 grid
-- **Plan** - Apply effort to tasks on your worksheet
-- **Help** - Draw from a shared Help deck
+Choose ONE action and move your meeple to its location:
 
-**Move your meeple** to the chosen action's location:
-- **Research:** On the shared Research board
-- **Book:** On your player board
-- **Plan:** On your player board
-- **Help:** On the shared Game board
+| Action | What it does | Where to move |
+|--------|-------------|---------------|
+| **Research** | Acquire vendor or venue cards | Research board |
+| **Book** | Place a vendor or venue in your 3×3 grid | Your player board |
+| **Plan** | Apply effort to tasks on your worksheet | Your player board |
+| **Help** | Draw from a shared Help deck | Game board |
 
 **Important:** You **must move your meeple** at the beginning of every month. Since you begin the game on your Vision board, you may choose any action during the first month.
 
@@ -190,7 +181,7 @@ Choose ONE of these four actions:
 
 #### 2. Resolve the Action
 
-Follow the steps for your chosen action (see **Actions in Detail** section).
+Follow the steps for your chosen action (see **Section 5: Actions in Detail**).
 
 #### 3. Resolve Bonus Actions
 
