@@ -31,23 +31,36 @@ After your turn, play passes clockwise. After all players have taken their turn,
 **RESEARCH** — Acquire cards. Choose one:
 - Take 1 face-up card from the Featured Vendor Row (FVR)
 - Draw 2 venues or draw 2 vendors from a single category
-- Flip a Research card: draw 1 vendor from each of 4 categories (or 3 vendors + 1 venue)
+- Flip a Research card:
+  - Draw 1 vendor from each of the 4 categories **OR**
+  - Draw 1 vendor from 3 of the categories and 1 venue
 
 **BOOK** — Place a card in your 3×3 grid:
 1. Choose a card from your hand
 2. Pay the cost, or book it face-down as DIY for free
-3. Place in an empty grid space (venue goes center only)
-4. Gain theme elements and check milestones
-5. Gain excitement and check milestones
-6. Check if your grid completes a moment
-7. Resolve any "When Booked" effect
-8. Take the grid bonus action (don't move your meeple)
+3. Place in an empty grid space
+4. Gain theme elements
+5. Gain excitement
+6. Check if you completed a moment
+7. Resolve any "When Booked" effects
+8. Take the grid bonus action (Do **not** move your meeple)
 
-If a bonus can't be taken: gain +1 excitement instead.
+If a bonus action cannot be taken, gain 1 excitement instead.
 
-**PLAN** — Apply 3 effort to unlocked tasks. When a task's effort boxes are all filled, it completes: gain its gifts, resolve any symbols shown, and mark it on your completed tasks tracker. Completing a key task unlocks the next 3 tasks.
+**PLAN** — Apply effort to tasks:
+1. Apply 3 effort across any unlocked tasks
+2. Once a task's effort boxes are all filled, it completes:
+   - Gain its gifts
+   - Mark it on your completed tasks tracker
 
-**HELP** — Draw from the money, effort, or research help deck. Resolve the card. Place it face-up in an open helper slot if the effect is delayed, face-down if fully resolved (max 3 helpers total).
+Completing a key task unlocks the next 3 tasks.
+
+**HELP** — Gain a helper with a unique effect:
+1. Draw from the money, effort, or research help deck
+2. Resolve the card
+3. Place it in an open helper slot
+
+If the helper effect is delayed, keep the card face-up as a reminder. Otherwise, place it face-down once resolved. (max 3 helpers)
 
 ---
 

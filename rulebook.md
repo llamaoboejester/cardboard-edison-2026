@@ -237,14 +237,14 @@ Acquire venue or vendor cards to your hand.
 Take 1 face-up card (vendor or venue) from the Featured Vendor Row (FVR) and add it to your hand.
 
 **Option 2: Category Search**
-Choose 1 vendor category or the Venue deck. Draw 2 face-down cards from that deck and add both to your hand.
+Draw 2 venues or draw 2 vendors from a single category. Add both to your hand.
 
 **Option 3: Browse for Inspiration**
-Flip the top Research card. It shows 4 vendor categories. Either
-- Draw 1 vendor from each of those 4 categories
-- Draw 1 vendor from 3 of those categories (you choose which 3) + draw 1 venue card.
+Flip the top Research card. It shows 4 vendor categories. Either:
+- Draw 1 vendor from each category
+- Draw 1 vendor from 3 of those categories (you choose which 3) and draw 1 venue card.
 
-> Note: If any of the 4 categories shown is empty, discard the Research card and flip a new one. Use the new card's 4 categories instead.
+> Note: If any category shown is empty, discard the Research card and flip a new one. Use the new card's categories instead.
 
 ---
 
@@ -255,161 +255,90 @@ Place a vendor or venue from your hand into your 3×3 grid.
 **Steps:**
 
 **1. Choose a Card**
-Select a vendor or venue card from your hand. You may alternatively book a vendor **face-down as DIY** (see sidebar).
+Select a vendor or venue card from your hand.
 
 **2. Pay the Cost**
-- **Vendor:** Pay the cost shown on the vendor card (typically 1-3 coins)
-- **Venue:** Pay the cost shown on the venue card (typically 2-4 coins)
-- **DIY vendor:** Pay 0 coins
-> Note: If you have an applicable discount, pay the discounted cost.
+Pay the cost shown on the card.
 
-**3. Place in Grid**
-Place the card in an empty position on your 3×3 grid:
-- **The center position:** is reserved for the Venue
-- **All other positions:** Any vendor (Venue not allowed)
-
-Face-up bookings show the card face. DIY bookings are placed face-down showing only the category icon on the back.
+**3. Place in the Grid**
+Place the card in an empty position on your 3×3 grid.
 
 **4. Gain Theme Elements**
-For each theme element icon on the card:
-- Advance that element's tracker by 1
-- Check for milestones at positions 2, 5, and 8:
-  - **Position 2 or 5:** Gain +1 excitement
-  - **Position 8:** Gain 5 gifts immediately
-
-**Venues also grant 1 wild theme token:** Choose any element tracker to advance by 1 (in addition to the printed icons).
-
-**DIY vendors grant no theme elements.**
+Advance each theme element tracker shown on the card by 1.
 
 **5. Gain Excitement**
-Gain the excitement printed on the card by advancing your excitement tracker. If you cross a milestone at positions 5, 10, 15, 20, or 25, choose one:
-- Gain 1 coin, OR
-- Draw 1 venue card from the venue deck or a vendor card from any category deck (top card)
-
-**If contracted with your Wedding Planner:** You may instead draw from the Featured Vendor Row.
-
-**DIY vendors grant no excitement.**
+Advance your excitement tracker by the amount shown on the card.
 
 **6. Check Moments**
-Check if your grid matches any revealed Moment pattern. If yes, score the Moment immediately (see **Moments** section).
+Check if your grid completes any moment. If yes, score it immediately (see **Section 7: Moments**).
 
-**7. Resolve "When Booked" Effects**
-If the card has a "When Booked" effect (all venues do), resolve it immediately.
+**7. Resolve "When Booked" Effect**
+If the card has a "When Booked" effect, resolve it immediately.
 
 **8. Take Grid Bonus Action**
-Immediately take the bonus action shown on the grid space where you booked:
-- **Positions 1, 9:** Research bonus
-- **Positions 2, 8:** Plan bonus
-- **Positions 3, 7:** Book bonus
-- **Positions 4, 6:** Help bonus
-- **Position 5 (center/Venue):** Choose any action as bonus
+Immediately take the bonus action shown on the grid space where you booked. Do not move your meeple.
 
-Do **not** move your meeple when taking bonus actions.
-
-**Fallbacks:**
-- If forced to take a Book bonus but you cannot (no cards/no space): Gain +1 excitement instead
-- If forced to take a Plan bonus but you cannot (no unlocked incomplete tasks): Gain +1 excitement instead
-- If forced to take a Help bonus but you cannot (all three helpers already taken): Gain +1 excitement instead
+**Fallback:** If you cannot take the bonus action, gain 1 excitement instead.
 
 > **DIY Bookings**
-> 
-> You may book any vendor **face-down as DIY** for 0 coins. This represents doing it yourself or getting help from family/friends instead of hiring a professional.
-> 
-> **DIY bookings:**
-> - Cost 0 coins (free)
-> - Grant no theme elements
-> - Grant no excitement
-> - Still trigger grid bonus actions
-> - Still count for Moments, Guest Goals, and task completion
-> - Do NOT count for Theme Goals, Budget Goals, or Excitement Goals
+>
+> Instead of paying a vendor's cost and booking face-up, you may book any vendor **face-down as DIY** for free. DIY represents doing it yourself or calling on family and friends rather than hiring a professional.
+>
+> DIY bookings still complete moments, trigger grid bonus actions, unlock task dependencies, and contribute to guest goals.
 
 ---
 
 ### Plan Action
 
-Apply effort toward completing tasks on your visible worksheet.
+Apply effort toward completing tasks on your worksheet.
 
 **Steps:**
 
 **1. Apply 3 Effort**
-Distribute **3 effort marks** across any unlocked tasks on your worksheet. An unlocked task is one whose requirements are already met. A requirement can be either a key task, a required booking, or both. (A task with no requirements is unlocked by default.)
+Distribute 3 effort marks across any unlocked tasks on your worksheet. You may apply all 3 to a single task or split them across multiple tasks.
 
-You may apply all 3 marks to a single task, or split them across multiple tasks.
+A task is unlocked when all of its requirements are met. Requirements are shown on the worksheet — a task may require a specific booking, a key task to be completed first, or both. Tasks with no requirements are always unlocked.
 
-**2. Complete Tasks**
-When all effort boxes on a task are filled, the task immediately completes:
-- **Award gifts:** Take gift tokens equal to the task's value
-- **Advance Completed Tasks tracker:** Mark the next position on your tracker. If you hit a milestone, resolve the bonus immediately:
-  - **Effort:** Apply 1 effort to any unlocked task
-  - **Excitement:** Gain +1 excitement
-  - **5 (gifts):** Gain 5 gifts
-- **If key task:** Unlock all related tasks below it
+**2. Resolve Symbols**
+As you mark effort boxes, resolve any symbols immediately:
+- **F** — Apply 1 additional effort to any unlocked task
+- **X** — Gain 1 excitement
+- **[number]** — Gain that many gifts
 
-**Key Tasks:**
-Each key task conditionally unlocks three dependent tasks. Those tasks may still require a booking in order to be fully unlocked.
-> **Note:** Key tasks can never be worked on by anyone other than you. (Not helpers or planners)
-> 
-Here's a list of the three key tasks:
-- **Choose Wedding Party:** worth 1 gift when completed, requires 3 total effort. Completing this task additionally grants +1 excitement and immediately satisfies the Key requirement for:
-  - *Host Rehearsal Dinner* (now unlocked)
-  - *Host Post-Wedding Brunch* (now unlocked)
-  - *Plan Wedding Party Processional* (now unlocked)
-- **Conduct Vendor Tastings:** worth 2 gifts when completed, requires 3 total effort. Completing this task additionally grants +1 excitement and immediately satisfies the Key requirement for:
-  - *Design Signature Drink* (now unlocked)
-  - *Finalize Menu Selections* (still potentially locked until you book any Food and Drink vendor)
-  - *Order Wedding Cake* (still potentially locked until you book any Food and Drink vendor) 
-- **Create Guest List:** worth 3 gifts when completed, requires 4 total effort. Completing this task additionally grants +1 excitement and immediately satisfies the Key requirement for:
-  - *Send Save-the-Dates* (still potentially locked until you book any Stationery vendor)
-  - *Mail Wedding Invitations* (still potentially locked until you book any Stationery vendor)
-  - *Create Seating Chart* (still potentially locked until you book any Venue)
+When all effort boxes on a task are filled, it completes. Gain its gifts, resolve any remaining symbols, and mark it on your completed tasks tracker. Check the tracker for milestones.
+
+**Key tasks** are marked on the worksheet. Completing a key task unlocks the next group of dependent tasks. Key tasks can only be worked on by you — not by helpers or your wedding planner.
 
 **3. Wedding Planner Effort (Optional)**
-If you've contracted with your Wedding Planner, you have a separate pool of **3 effort** that can be applied to unlocked, non-key tasks. This effort is also tracked on your Wedding Planner card. You may use planner effort at any time on your turn.
-
-> **Example:** 
-> Jennifer takes a Plan action. She notices 3 unlocked tasks:
-> - *Design Centerpieces* (worth 3 gifts when completed, requires 2 total effort, 1 effort already filled, unlocked by a previous Flowers & Decorations booking)
-> - *Host Rehearsal Dinner* (worth 2 gifts when completed, requires a single effort, unlocked by Choose Wedding Party key task previously completed)
-> - *Order Wedding Rings* (worth 2 gifts when completed, requires 2 total effort, 0 effort already filled)
-> 
-> Jennifer applies 1 effort to *Design Centerpieces* (completing it for 3 gifts), 1 effort to *Host Rehearsal Dinner* (completing it for 2 gifts), and 1 effort to *Order Wedding Rings.* She advances her Completed Tasks tracker twice.
+If contracted with your wedding planner, you have a separate pool of 3 effort cubes that can be applied to any unlocked, non-key task at any time on your turn.
 
 ---
 
 ### Help Action
 
-Draw from one of three shared Help decks to gain resources or bonuses.
+Wedding planning can feel overwhelming. Sometimes you need to call in a favor. The Help action represents reaching out to friends, family, and others in your life who want to support you.
 
 **Steps:**
 
 **1. Choose a Help Deck**
-Choose one of the three shared Help decks:
-- **Money Help** - Provides coins with upside options
-- **Effort Help** - Provides task completion support but they can never help on Key tasks
-- **Research Help** - Provides vendor acquisition support
+Decide what kind of help you need and draw the top card from that deck:
+- **Money Help** — financial support
+- **Effort Help** — help with tasks (never key tasks)
+- **Research Help** — vendor connections and referrals
 
-**2. Draw and Resolve**
-Draw the top card from the chosen deck. Read the card and choose one of the options presented. Resolve your choice immediately.
+**2. Read and Resolve**
+Each card represents a person you've called. Read their offer and resolve it. Some cards present a choice — decide and follow through immediately.
+
+> **Note:** Some cards include a commitment with a penalty at endgame if not fulfilled. Read carefully before choosing.
 
 **3. Place Helper**
-Place the helper card face-up in your next available helper slot (1, 2, or 3) on your player board as a reminder that you've used it.
+Place the card in your next available helper slot on your player board:
+- **Face-down** if fully resolved
+- **Face-up** if the effect is delayed or a commitment is still pending
 
-**Helper Limit:** You may have at most **3 helpers** total. Once you have 3 face-up helpers in your slots, you cannot take the Help action again.
+**Helper Limit:** You may have at most 3 helpers total. Once all three slots are filled, you cannot take the Help action again.
 
 **Empty Decks:** Once a Help deck is empty, it remains empty for the rest of the game.
-
-> **Money Help Examples:**
-> - "Grandma says she can send you what she has immediately or she can save up and give you more just before the wedding. Take 1 coin now, OR take 3 coins at the beginning of Month 12."
-> - "Future In-Laws say they can help a bit now, but they'd be willing to pitch in a bit more once they see (and approve of) the guest list. Take 1 coin now, OR take 3 coins once the *Create Guest List* task is complete."
->
-
-> **Effort Help Examples:**
-> - "College Friend says they can help a bit today, but once they wrap up this semester they can help out more. Apply 1 effort to any unlocked task immediately, OR gain 3 effort to use on any unlocked task after the next Check-In."
-> - "Maid of Honor would love to help with the bridal shower, but if you have other plans she can help with whatever. Immediately apply effort to complete the *Plan Bridal Shower* task, OR apply 1 effort to any unlocked, non-key task immediately."
- 
-> **Research Help Examples:**
-> - "Foodie Friend knows a couple great places that might work. Reveal the top 2 Food & Drink vendors, keep 1, bottom the other."
-> - "Mother-in-Law wants to help but you don't always see eye-to-eye. Choose another player to act as MIL. They suggest a vendor from a category you have not booked yet. Draw the top card from that category. You may keep or discard this vendor. If discarded, they suggest a different unbooked category. Draw the top card from this second category. You may keep or discard this vendor as well. All discarded vendors go to the Featured Vendor Row."
 
 ---
 
