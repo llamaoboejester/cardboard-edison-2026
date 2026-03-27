@@ -17,10 +17,10 @@ Win by collecting the most gifts. Gifts come from building excitement, completin
 **Each turn, take these steps:**
 1. Move your meeple to a new action space
 2. Resolve the action
-3. Resolve any bonus actions (do not move your meeple)
-4. Check hand limit:
-   - Max 5 cards total; discard excess face-up to the FVR
-   - Max 3 venues until you book one; after booking a venue, discard all remaining venues to the FVR
+3. Resolve any bonus actions (Do **not** move your meeple)
+4. Discard down to 5 cards total. Discard excess face-up to the FVR *
+
+*You may never have more than 3 venues in hand. Once you book a venue, immediately discard **all** remaining venues to the FVR.
 
 After your turn, play passes clockwise. After all players have taken their turn, advance the timeline token and begin the next month.
 

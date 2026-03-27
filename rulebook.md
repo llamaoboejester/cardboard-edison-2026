@@ -378,58 +378,25 @@ At the first Check-In (after Month 3), you'll choose 1 of your 2 Theme cards and
 Your player board has 5 theme element trackers (Whimsy, Edge, Nature, Tradition, Elegance), each with positions 0-8+.
 
 **Gaining Theme Elements:**
-When you book a venue or vendor face-up, for each theme element icon on the card, advance that element's tracker by 1.
-
-**Venues** also grant **1 wild theme token** - immediately choose any element tracker to advance by 1 (this is in addition to the printed icons).
+When you book a vendor or venue face-up, advance each theme element tracker shown on the card by 1. For each **Wild** icon, choose any tracker to advance by 1. Trackers stop at position 8 — no further progress or bonuses beyond that.
 
 **DIY vendors grant no theme elements.**
 
 **Milestones:**
-- **Position 2 or 5:** Gain +1 excitement immediately
+- **Position 2 or 5:** Gain 1 excitement immediately
 - **Position 8:** Gain 5 gifts immediately
-- No further tracking after position 8 (no additional bonuses)
-
-#### Strategic Implications
-
-The more purely you pursue your 2 theme elements (while keeping the other 3 elements low), the better your Theme Goal score can be. However, this requires careful vendor selection and sometimes passing on powerful cards that could "pollute" your trackers.
 
 ---
 
 ### Excitement System
 
-**Excitement** represents the buzz and anticipation building for your wedding. As excitement grows, you unlock milestone rewards and accumulate gifts for endgame scoring.
+**Excitement** represents the buzz and anticipation building for your wedding. It is gained from bookings, theme element milestones, key task completions, fallback bonuses, and setting public goals. At game end, your final excitement position converts directly to gifts.
 
-#### Excitement Track
+Your excitement track runs from 0-30. At every 5 positions (5, 10, 15, 20, 25, 30), choose one:
+- Gain 1 coin, OR
+- Draw 1 venue or any vendor (top card of any deck)
 
-Your player board has an excitement track from positions 0-25. Milestones are at key positions: stir (5), buzz (10), hype (15), roar (20), max+ (25).
-
-Position 25 is a hard cap. If you would gain excitement while at position 25, that excitement is not tracked.
-
-#### Gaining Excitement
-
-**From Bookings:**
-When you book a venue or vendor, advance the excitement value printed on the card. The more theme element variety, the more guests get excited about your choices.
-
-**From Other Sources:**
-- Theme element tracker milestones
-- Key task completion bonuses
-- Fallback bonuses (when unable to take certain bonus actions)
-- Public goal setting (+1 excitement per public goal)
-
-**DIY vendors grant no excitement.**
-
-#### Excitement Milestones
-
-**Every 5 positions** (5, 10, 15, 20, 25), choose ONE:
-- **Gain 1 coin**, OR
-- **Draw 1 venue or vendor card** from the venue or any category deck (top card)
-
-**If contracted with your Wedding Planner:** You may draw from the Featured Vendor Row instead of venue or category decks.
-
-#### Endgame Conversion
-
-At game end, your final excitement position converts **directly to gifts**.
-- Example: Excitement at position 18 = 18 gifts at endgame
+**If contracted with your wedding planner:** You may draw from the Featured Vendor Row instead.
 
 ---
 
