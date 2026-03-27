@@ -125,7 +125,7 @@ Take your starting 12 coins.
 Draw 2 Theme cards from the Theme deck. Keep both hidden from everyone. You'll choose 1 at the first Check-In.
 
 **7. Receive a Wedding Planner Contract**
-Draw 1 Wedding Planner Contract randomly. Place it near your player board. You can contract with your planner later in the game if desired.
+Draw 1 Wedding Planner Contract randomly. Flip the exclusive venue in the sleeve to see which venue your planner has secured for you. Place the contract near your player board. You can contract with your planner later in the game if desired.
 
 **8. Set Up Trackers**
 - Place your **Theme Element Trackers** on position 0 of each theme element track on your player board
@@ -696,7 +696,7 @@ If you tie on total gifts, apply these tiebreakers in order:
 After scoring, return the following before storing the game:
 
 1. **In-house vendors** — Collect all cards with an asterisk (✱) on the card back and return them to their sleeves on the In-House Vendor Sheet.
-2. **Exclusive venues** — Return each Wedding Planner's exclusive venue to its respective Wedding Planner contract.
+2. **Exclusive venues** — Return each Wedding Planner's exclusive venue face-down to its sleeve on the respective Wedding Planner contract.
 
 ---
 
