@@ -483,33 +483,21 @@ Each Moment shows two values: **First** and **Others**. Everyone who completes a
 
 After Months 3, 6, and 9, everyone pauses for a **Check-In**. This is when you set goals and prepare for the next quarter.
 
-**There is no Check-In after Month 12** - the game proceeds directly to endgame scoring.
+There is no Check-In after Month 12. The game proceeds directly to endgame scoring.
 
 ### Check-In Structure
 
 Perform these steps in order:
 
 **1. Move All Meeples to Vision Boards**
-Everyone moves their meeples to their Vision boards in order to Check-In.
-
-#### Part 1: Set Goals
 
 **2. Set Theme (First Check-In Only)**
-At Check-In 1 (after Month 3), you must choose 1 of your 2 Theme cards and place it in your Vision board (face-down to keep it private, or face-up to make it public and immediately gain +1 excitement). This determines your 2 theme elements for Theme Goal scoring. Discard the unchosen Theme card face-down.
+At Check-In 1 (after Month 3), you must choose 1 of your 2 Theme cards and place it on your Vision board (face-down to keep it private, or face-up to make it public and immediately gain 1 excitement). This determines your 2 theme elements for Theme Goal scoring. Discard the unchosen Theme card face-down.
 
 **3. Set a New Goal**
-Choose 1 goal you haven't set yet (Theme, Budget, Excitement, or Guest) and place it in your Vision board:
-- **Check-In 1:** Set first goal (any of four types)
-- **Check-In 2:** Set second goal (different type from first)
-- **Check-In 3:** Set third goal (one of two remaining types)
+Choose 1 goal type you haven't set yet and place it on your Vision board. You may set it face-down to keep it private, or face-up to make it public and immediately gain 1 excitement.
 
-You may set each goal **face-down (private)** or **face-up (public)**:
-- **Private:** No immediate benefit
-- **Public:** Immediately gain +1 excitement
-
-You may flip private goals to public later, but you do NOT gain excitement if you flip them after the Check-In.
-
-#### Part 2: Preparation (Reset for Next Quarter)
+You may flip private goals to public later, but you do not gain excitement if you flip them after the Check-In.
 
 **4. Clear Featured Vendor Row**
 Discard all face-up cards from the Featured Vendor Row to the bottom of their respective category decks.
