@@ -38,6 +38,7 @@ The game plays over **12 months** organized into **4 quarters**. Between quarter
   - Transportation (12)
 - **12 Venue cards**
 - **8 Wedding Planner Contracts**
+- **1 In-House Vendor Sheet** (6 vendors)
 - **10 Theme cards**
 - **8 Double-sided Personality cards**
 - **18 Help cards** (6 Money, 6 Effort, 6 Research)
@@ -74,26 +75,29 @@ Shuffle all 9 vendor category decks separately. Place them face-down on the Rese
 **3. Prepare Venue Deck**
 Shuffle all 12 venue cards and place face-down on the Research Board in the Venue space.
 
-**4. Prepare Research Deck**
+**4. Place In-House Vendor Sheet**
+Place the In-House Vendor Sheet near the Research Board. All 6 in-house vendors should be in their sleeves and available. In-house vendors are identified by an asterisk (✱) in the top right corner of the card back.
+
+**5. Prepare Research Deck**
 Shuffle the Research cards and place face-down on the Research space.
 
-**5. Prepare Theme Deck**
+**6. Prepare Theme Deck**
 Shuffle the Theme deck and place face-down near the play area.
 
-**6. Prepare Help Decks**
+**7. Prepare Help Decks**
 Separate the 18 Help cards into three decks by type (Money, Effort, Research, 6 cards each). Shuffle each and place face-down on the Game Board.
 
-**7. Reveal Moment Cards**
+**8. Reveal Moment Cards**
 Separate the 16 Moment cards into three decks by size (Small, Medium, Large). Either:
 - **Standard game:** Randomly draw 1 Small, 1 Medium, and 1 Large Moment
 - **Advanced game:** Shuffle all Moment cards together and randomly draw 3 Moments
 
 Place the chosen Moments face-up (showing first completer values) on the Game Board.
 
-**8. Reveal Award Cards**
+**9. Reveal Award Cards**
 Shuffle the 10 Award cards. Randomly draw 1 Race Award and 1 Endgame Award. Place both face-up on the Game Board.
 
-**9. Prepare Personality Deck**
+**10. Prepare Personality Deck**
 Shuffle the Personality deck and place face-down near the play area.
 
 ### Player Setup
@@ -406,19 +410,9 @@ Venues are the centerpiece of your wedding - the physical space where your cerem
 
 #### Venue Basics
 
-- **Venue cards are physically larger** than vendor cards
-- **The center position on your booking grid is physically larger** to accommodate venues
 - Venues **must be booked in the center position** of your 3×3 grid
 - You **must book exactly 1 venue** per wedding
 - The center position grants the **"Any Action" bonus** when booked
-
-#### Venue Costs & Elements
-
-**Costs:** Venues typically cost 2-4 coins
-
-**Theme Elements:** All standard venues include:
-- **Printed theme element icons** (typically 1-3 icons)
-- **1 wild theme token** (choose any element tracker to advance by 1)
 
 #### When Booked Effects
 
@@ -430,28 +424,21 @@ All venues have powerful **"When Booked"** effects that trigger immediately when
 - **Task Completion/Effort:** Auto-complete or apply effort to specific tasks
 - **Constraints:** Impose restrictions or requirements
 
+If a venue instructs you to take an in-house vendor, find it on the In-House Vendor Sheet and slip it out of its sleeve into your hand.
+
 Some in-house vendors also have their own "When Booked" effects that trigger when *they* are booked.
+
+> **A Venue in Action: Sunlit Vineyard Lawn**
+>
+> *(card image)*
+>
+> When you book the Sunlit Vineyard Lawn, their **Estate Wine Tasting** becomes exclusively available to you — an in-house Food and Drink vendor added to your hand that no other venue can offer. They also connect you with another Food and Drink vendor from their network.
+>
+> This is the heart of what venues offer: something exclusive you can only get by choosing them, and introductions to vendors they already trust.
 
 #### Venue Hand Limit
 
-**Before booking a venue:**
-- Maximum 5 cards total (vendors + venues combined)
-- Maximum 3 venues in hand
-
-**After booking a venue:**
-- Must discard all remaining venues from hand by end of turn
-- Discarded venues go face-up to Featured Vendor Row
-
-#### Example Venues
-
-**Neighborhood Church** (2 coins, 2 excitement, Tradition + Wild)
-When Booked: Take *Church Pastor* (in-house Ceremony vendor, 0-cost, 1 excitement, Tradition) and add to hand. When *Church Pastor* is booked, apply 1 effort to *Plan Ceremony Structure* task immediately.
-
-**Opulent Grand Ballroom** (3 coins, 2 excitement, Elegance + Elegance + Wild)
-When Booked: Draw 1 Photography or Entertainment vendor (your choice). Take *Grand Ballroom Valet* (in-house Transportation vendor, 1-cost, 1 excitement, Elegance) and add to hand.
-
-**Whispering Festival Manor** (4 coins, 4 excitement, Whimsy + Tradition + Elegance + Wild)
-When Booked: Draw 1 Entertainment and 1 Food & Drink vendor. Add both to hand.
+You may have at most 3 venue cards in hand at any time. Once you book a venue, immediately discard all remaining venues from your hand to the Featured Vendor Row.
 
 ---
 
@@ -461,39 +448,20 @@ Wedding Planners offer professional services that ease the planning process - fo
 
 #### Contracting
 
-At setup, you received one of eight Wedding Planner contracts. At any point during the game, **on your turn**, you may pay **3 coins** to contract with your planner.
+At setup, you received one of eight Wedding Planner contracts. At any point during the game, on your turn, you may pay 3 coins to contract with your planner.
 
-Once contracted:
-- You immediately gain access to all three services
-- You cannot un-contract, though you may ignore their services
-- The Wedding Planner contract remains visible to track your status and usage of services
-- While under contract with a Wedding Planner, your wedding may include at most one DIY vendor.
+Contracting is permanent. While contracted, your wedding may include at most one DIY vendor in total.
 
 #### The Three Services
 
 **Service 1: Access**
-When you reach excitement milestones (5/10/15/20/25) and choose to draw a card, you may draw from the **Featured Vendor Row** instead of venue or category decks. This gives you more control and visibility into what you're getting.
+When you reach excitement milestones and choose to draw a card, you may instead take a card from the Featured Vendor Row.
 
 **Service 2: Coordination**
-You receive a pool of **3 effort** tracked on your Wedding Planner card. This effort can be applied to any unlocked, non-key tasks throughout the game (not just during Plan actions). Track usage with a marker/cube sliding along the 0-3 track on the planner contract.
+You receive a pool of 3 effort tracked on your Wedding Planner contract. During a Plan action, you may spend one or more of this effort on any unlocked, non-key tasks in addition to your normal 3 effort. Remove a cube each time effort is used. Once all 3 cubes are spent, this service is exhausted.
 
 **Service 3: Exclusive Access**
-Your Wedding Planner grants access to one unique venue that is not in the regular venue deck. This exclusive venue sits on/with your Wedding Planner contract and is **always available** once contracted. It does not count toward hand limits. You may book it on any turn after contracting.
-
-#### Wedding Planner Exclusive Venues
-
-Each of the 8 Wedding Planners has a different exclusive venue. Examples:
-
-**Destination Wedding** (3 coins, 2 excitement, Nature + Whimsy + Whimsy)
-When Booked: Gain +2 Excitement immediately.
-
-**Grand Theater** (4 coins, 4 excitement, Whimsy + Edge + Elegance + Wild)
-When Booked: Draw 1 Entertainment vendor. Unlock the *Venue Setup/Teardown* task and apply 1 effort to it.
-Constraint: DIY Entertainment may not be booked. If you already have DIY Entertainment booked, this venue cannot be booked.
-
-**Private Island** (4 coins, 4 excitement, Edge + Nature + Elegance + Wild)
-When Booked: Unlock the *Coordinate Guest Arrivals* task and apply 1 effort to it.
-Constraint: Transportation vendors may not be booked.
+Your exclusive venue is sleeved onto your contract and visible from the start of the game, giving you a preview before you decide to contract. It does not count toward your hand limit. When you book it, take it from the sleeve and book as normal.
 
 ---
 
@@ -753,11 +721,22 @@ If you tie on total gifts, apply these tiebreakers in order:
 
 ### Winner!
 
+---
+
+## 11. CLEANUP
+
+After scoring, return the following before storing the game:
+
+1. **In-house vendors** — Collect all cards with an asterisk (✱) on the card back and return them to their sleeves on the In-House Vendor Sheet.
+2. **Exclusive venues** — Return each Wedding Planner's exclusive venue to its respective Wedding Planner contract.
+
+---
+
 The player with the most gifts wins!
 
 ---
 
-## 11. QUICK REFERENCE
+## 12. QUICK REFERENCE
 
 ### Turn Structure
 1. Choose action, move meeple
