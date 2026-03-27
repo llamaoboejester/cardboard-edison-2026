@@ -160,7 +160,7 @@ The first player begins Month 1!
 
 ## 4. HOW TO PLAY
 
-The Wedding Planner plays over **12 months** in **4 quarters**: Q1 (1-3), Q2 (4-6), Q3 (7-9), Q4 (10-12). After months 3, 6, and 9, everyone participates in a **Check-In** before continuing to the next quarter.
+The Wedding Planner plays over **12 months** in **4 quarters**: Q1 (1-3), Q2 (4-6), Q3 (7-9), Q4 (10-12).
 
 ### Turn Structure
 
@@ -169,6 +169,8 @@ On your turn:
 2. **Resolve the action**
 3. **Resolve any bonus actions**
 4. **Check hand limit** (end of turn)
+
+After your turn, play passes clockwise. After all players have taken their turn, advance the timeline token. The **Quarters and Check-Ins** section below covers what happens when the token lands on a Check-In space.
 
 #### 1. Choose and Move to an Action
 
@@ -516,31 +518,17 @@ Advance the timeline token to the next month and begin the next quarter. The fir
 
 ## 8. GOALS
 
-Goals represent the personal vision and priorities you set for your wedding. Over the three Check-Ins, you will set exactly **3 goals** - one per Check-In.
+Goals capture your vision for the wedding. Each goal type asks a different question about the kind of wedding you want to create and the kind of experience you want your guests to have. There are no wrong answers. Subtle is not less than Unforgettable. Refined is not less than Extravagant. The harder the vision is to achieve, the greater the reward, but the vision itself is yours alone.
 
-### Goal Types
-
-There are **four goal types**:
-1. Theme Goals
-2. Budget Goals
-3. Excitement Goals
-4. Guest Goals
-
-Since you set 3 goals over the game, you will skip one goal type entirely (your choice).
-
-### Private vs. Public Goals
-
-When you set a goal, choose:
-- **Private (face-down):** No immediate benefit
-- **Public (face-up):** Immediately gain +1 excitement
-
-You may flip private goals to public later, but you do NOT gain excitement if flipped after the Check-In.
-
----
+Over the three Check-Ins, you will set three goals, one per Check-In.
 
 ### 1. Theme Goals
 
+*How do you want to describe the overall vision for your wedding?*
+
 Theme Goals evaluate how well you pursued your 2 theme elements.
+
+If your final trackers meet or exceed your goal's condition, you score your goal's gifts. If you fall short, you score nothing.
 
 At endgame, look at your theme element trackers and compare:
 - Your **2 theme elements** (shown on your chosen Theme card)
@@ -548,68 +536,62 @@ At endgame, look at your theme element trackers and compare:
 
 **Unforgettable - 30 gifts**
 Only your 2 theme elements have progress. All other 3 elements are at position 0.
-*Example: Theme is Classic (Tradition + Elegance). Trackers: Tradition=7, Elegance=5, Whimsy=0, Edge=0, Nature=0.*
 
 **Thematic - 20 gifts**
 Your 2 theme elements are the only top 2 elements. No ties with non-theme elements for the top 2 positions.
-*Example: Theme is Classic (Tradition + Elegance). Trackers: Tradition=6, Elegance=5, Whimsy=3, Edge=2, Nature=1.*
 
 **Coordinated - 15 gifts**
 Both of your theme elements are in the top 2 positions. Ties are allowed.
-*Example: Theme is Classic (Tradition + Elegance). Trackers: Tradition=6, Elegance=5, Edge=5, Whimsy=1, Nature=0. Tradition is in top 2. Elegance is tied for top 2.*
 
 **Subtle - 10 gifts**
 At least one of your theme elements is in the top 2 positions.
-*Example: Theme is Classic (Tradition + Elegance). Trackers: Tradition=6, Whimsy=5, Edge=4, Elegance=3, Nature=2. Tradition is in top 2.*
 
-**Bonus: Balanced (+5 gifts, orthogonal)**
-If your 2 theme elements are exactly equal at game end, gain +5 additional gifts. This stacks with any tier achieved above.
-*Example: Theme is Classic (Tradition + Elegance). Trackers: Tradition=5, Elegance=5, Whimsy=3, Edge=1, Nature=1 → Coordinated (15) + Balanced (5) = 20 gifts total.*
+**Bonus: Balanced**
+Every player has a Balanced bonus. At endgame, if your 2 theme elements are exactly equal, flip it and gain 5 additional gifts. This stacks with any theme tier above.
 
 ---
 
 ### 2. Budget Goals
 
-Budget Goals evaluate the cost distribution of your booked vendors. **DIY vendors do not count** (they are 0-cost and create their own plurality bucket).
+*How lavish do you want your wedding to feel?*
 
-At endgame, count how many vendors you booked at each cost tier (1-cost, 2-cost, 3-cost). Whichever has the most (plurality) determines your score.
+Budget Goals evaluate the cost distribution of your booked cards. DIY cards do not count.
+
+At endgame, count how many cards you booked at each cost tier (1-cost, 2-cost, 3-cost). You score your goal if no other cost tier has more cards than your chosen tier.
 
 **Extravagant - 15 gifts**
-Most of your booked vendors cost 3+ coins.
+Most of your booked cards cost 3+ coins.
 
 **Refined - 10 gifts**
-Most of your booked vendors cost 2 coins.
+Most of your booked cards cost 2 coins.
 
 **Modest - 5 gifts**
-Most of your booked vendors cost 1 coin.
-
-**Ties go up:** If you have equal numbers at multiple tiers, score the highest-value tier among the tied tiers.
-*Example: 3 one-cost, 3 two-cost, 2 three-cost → Refined (10 gifts).*
-*Example: 3 one-cost, 3 two-cost, 3 three-cost → Extravagant (15 gifts).*
+Most of your booked cards cost 1 coin.
 
 ---
 
 ### 3. Excitement Goals
 
-Excitement Goals evaluate the excitement distribution of your booked vendors.
+*How electric do you want your wedding to feel?*
 
-At endgame, count how many vendors you booked at each excitement value (1-excitement, 2-excitement, 3-excitement). Whichever has the most (plurality) determines your score.
+Excitement Goals evaluate the excitement distribution of your booked cards. DIY cards do not count.
+
+At endgame, count how many cards you booked at each excitement value (1-excitement, 2-excitement, 3-excitement). You score your goal if no other excitement tier has more cards than your chosen tier.
 
 **Spectacular - 15 gifts**
-Most of your booked vendors grant 3+ excitement.
+Most of your booked cards grant 3+ excitement.
 
 **Vibrant - 10 gifts**
-Most of your booked vendors grant 2 excitement.
+Most of your booked cards grant 2 excitement.
 
 **Intimate - 5 gifts**
-Most of your booked vendors grant 1 excitement.
-
-**Ties go up:** If you have equal numbers at multiple tiers, score the highest-value tier among the tied tiers.
-*Example: 3 one-excitement, 3 two-excitement, 2 three-excitement → Vibrant (10 gifts).*
+Most of your booked cards grant 1 excitement.
 
 ---
 
 ### 4. Guest Goals
+
+*How do you want your guests to feel?*
 
 Guest Goals evaluate booking multiple vendors from a specific category.
 
@@ -749,6 +731,21 @@ The player with the most gifts wins!
 **Nature** - Green leaf
 **Tradition** - Maroon rings
 **Elegance** - Gold diamond
+
+---
+
+## FAQ
+
+**Q: What does "tied for the top two" mean on the Coordinated goal?**
+
+No element outside your theme can outrank both of your theme elements. Ties are fine — what fails Coordinated is a non-theme element sitting strictly above both of yours.
+
+| Theme | A | B | C | Result |
+|-------|---|---|---|--------|
+| A + B | 5 | 5 | 5 | ✓ |
+| A + B | 5 | 5 | 4 | ✓ (also Thematic) |
+| A + B | 5 | 4 | 4 | ✓ |
+| A + B | 4 | 4 | 5 | ✗ |
 
 ---
 
