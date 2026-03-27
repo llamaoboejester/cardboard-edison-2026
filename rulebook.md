@@ -500,17 +500,17 @@ Choose 1 goal type you haven't set yet and place it on your Vision board. You ma
 You may flip private goals to public later, but you do not gain excitement if you flip them after the Check-In.
 
 **4. Clear Featured Vendor Row**
-Discard all face-up cards from the Featured Vendor Row to the bottom of their respective category decks.
+Discard all face-up cards from the Featured Vendor Row to the bottom of their respective decks.
 
 **5. Pass First Player Token**
 Give the First Player token to the next player clockwise.
 
 **6. Reveal New Featured Vendors**
-The new first player chooses 5 distinct categories and reveals 1 card from each category face-up in the Featured Vendor Row.
+The new first player chooses 5 distinct vendor categories and reveals 1 card from each face-up in the Featured Vendor Row.
 
 ### Check-In Complete
 
-Play continues with the first player starting the next quarter.
+Advance the timeline token to the next month and begin the next quarter. The first player takes the first turn.
 
 ---
 

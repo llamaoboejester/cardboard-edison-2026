@@ -22,7 +22,7 @@ Win by collecting the most gifts. Gifts come from building excitement, completin
 
 *You may never have more than 3 venues in hand. Once you book a venue, immediately discard **all** remaining venues to the FVR.
 
-After your turn, play passes clockwise. After all players have taken their turn, advance the timeline token and begin the next month.
+After your turn, play passes clockwise. After all players have taken their turn, advance the timeline token. After months 3, 6, and 9, the token lands on a Check-In space — pause for a Check-In before continuing.
 
 **The game plays over 12 months in 4 quarters.** After months 3, 6, and 9, everyone pauses for a Check-In (see back).
 
