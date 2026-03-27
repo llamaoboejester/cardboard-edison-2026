@@ -49,6 +49,7 @@ The game plays over **12 months** organized into **4 quarters**. Between quarter
 **Boards & Tokens:**
 - **1 Game Board**
 - **1 Research Board**
+- **5 Card Stands** (3 for Moments, 2 for Awards)
 - **1 First Player token**
 - **1 Timeline token**
 - **100 Gift tokens**
@@ -58,7 +59,7 @@ The game plays over **12 months** organized into **4 quarters**. Between quarter
 
 ## 3. SETUP
 
-> **First Game?** For Moments, use *The Aisle*, *The Promise*, and *The Union*. For Awards, use *First to Excitement* and *Most Well-Rounded*.
+> **First Game?** For Moments, use **The Rehearsal** set. For Awards, use *First Spark* and *Most Well-Rounded*.
 
 > **Variant: Competitive Venue** Use the provided 2nd copy of each standard venue in the venue deck (24 venues total). Once a Venue is booked, the other copy is immediately removed from the game, even if it is in a player's hand.
 
@@ -88,14 +89,15 @@ Shuffle the Theme deck and place face-down near the play area.
 Separate the 18 Help cards into three decks by type (Money, Effort, Research, 6 cards each). Shuffle each and place face-down on the Game Board.
 
 **8. Reveal Moment Cards**
-Separate the 16 Moment cards into three decks by size (Small, Medium, Large). Either:
-- **Standard game:** Randomly draw 1 Small, 1 Medium, and 1 Large Moment
-- **Advanced game:** Shuffle all Moment cards together and randomly draw 3 Moments
+Shuffle all 16 Moment cards together and randomly draw 3. Place them in stands where all players can see them.
 
-Place the chosen Moments face-up (showing first completer values) on the Game Board.
+**Recommended Sets:**
+- **The Rehearsal** (first game): The Aisle, The Promise, The Union
+- **The Ceremony** (intermediate): The Glance, The Spark, The Rings
+- **The Reception** (challenging): The Giving, The Dance, Forever
 
 **9. Reveal Award Cards**
-Shuffle the 10 Award cards. Randomly draw 1 Race Award and 1 Endgame Award. Place both face-up on the Game Board.
+Shuffle the 10 Award cards. Randomly draw 1 Race Award and 1 Endgame Award. Place both in stands where all players can see them.
 
 **10. Prepare Personality Deck**
 Shuffle the Personality deck and place face-down near the play area.
@@ -461,7 +463,7 @@ When you reach excitement milestones and choose to draw a card, you may instead 
 You receive a pool of 3 effort tracked on your Wedding Planner contract. During a Plan action, you may spend one or more of this effort on any unlocked, non-key tasks in addition to your normal 3 effort. Remove a cube each time effort is used. Once all 3 cubes are spent, this service is exhausted.
 
 **Service 3: Exclusive Access**
-Your exclusive venue is sleeved onto your contract and visible from the start of the game, giving you a preview before you decide to contract. It does not count toward your hand limit. When you book it, take it from the sleeve and book as normal.
+Your exclusive venue is sleeved onto your contract and visible from the start of the game, giving you a preview before you decide to contract. It does not count toward your hand limit. When you book it, take it from the sleeve and book as normal. The exclusive venue may not be booked as DIY.
 
 ---
 
@@ -469,25 +471,11 @@ Your exclusive venue is sleeved onto your contract and visible from the start of
 
 Moments represent the actual wedding ceremony and reception highlights captured in time. They are **spatial patterns** on your 3×3 booking grid.
 
-#### Moment Structure
-
-At setup, 3 Moment cards were revealed from the 16 total. Each Moment shows:
-- **Thematic name**
-- **Pattern:** Which grid positions must be filled (and which must be empty)
-- **Size tier:** Small (S), Medium (M), or Large (L)
-- **First completer reward:** typically 3-5 gifts
-- **Card back (subsequent completer reward):** typically 1-3 gifts
-
 #### Moment Scoring
 
-**Check after EVERY booking action** (including bonus bookings):
-- If your grid pattern **exactly matches** a revealed Moment, score it immediately
-- **Exclusive patterns:** Positions marked "must be filled" must have vendors/venues, and positions marked "must be empty" must be empty
+Check after every booking action, including bonus bookings. If your grid exactly matches a revealed Moment, score it immediately. Filled positions must have cards booked, and empty positions must be empty.
 
-**Same-Month Rule:**
-Everyone who completes a Moment on the same month number get first completer value. After that month ends, flip the card to show reduced subsequent value.
-
-Example: Month 5, both Player 1 and Player 3 complete "The Aisle" → both get 3 gifts. After Month 5 ends, flip the card. Future completers get 1 gift.
+Each Moment shows two values: **First** and **Others**. Everyone who completes a Moment in the same month receives the First value. After that month ends, all subsequent completers receive the Others value.
 
 ---
 
@@ -659,27 +647,7 @@ At Check-In, choose one of these 9 Guest Goals:
 
 ## 9. AWARDS
 
-10 Award cards exist. At setup randomly select one Race Award and one Endgame Award
-
-Awards provide additional ways to score 5 gifts each.
-
-### Race Award Examples (During Game)
-
-**Fastest to Excitement**
-Be the first player to reach excitement level 12. Immediately gain 5 gifts. If you reach this milestone during the same month, everyone reaching it receives 5 gifts.
-
-**Fastest to DIY**
-Be the first player to DIY 3 vendors. Immediately gain 5 gifts. If you reach this milestone during the same month, everyone reaching it receives 5 gifts.
-
-### Endgame Award Examples (Evaluated at Game End)
-
-**Most Well-Rounded**
-Book vendors from the largest variety of categories. You gain 5 gifts.
-Tiebreaker: If you tie, all tied players receive 5 gifts each.
-
-**Highest Single Theme Element**
-Have the highest count of any one theme element. You gain 5 gifts.
-Tiebreaker: If you tie, all tied players receive 5 gifts
+There are two types of awards: Race Awards and Endgame Awards. Race Awards go to the first player to achieve a specific milestone — if multiple players reach it in the same month, all of them receive it. Endgame Awards are evaluated at the end of the game and go to whoever best meets the condition.
 
 ---
 
