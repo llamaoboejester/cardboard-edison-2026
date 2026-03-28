@@ -19,9 +19,11 @@ The game plays over **12 months** organized into **4 quarters**. Between quarter
 
 ### Player Components (×4 sets)
 - **1 Player Board**
+- **1 Task Worksheet** (laminated for prototype)
 - **1 Set of Trackers and pawns**
 - **1 Set of Goals** (4 Theme Goal, 3 Budget Goal, 3 Excitement Goal, 9 Guest Goal, 1 Theme Bonus)
 - **1 Meeple**
+- **1 Wet erase marker**
 
 ### Shared Components
 
