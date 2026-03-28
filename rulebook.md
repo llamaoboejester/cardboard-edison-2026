@@ -223,7 +223,7 @@ Acquire venue or vendor cards to your hand.
 
 **Steps:**
 
-**Choose ONE option:**
+**Choose one option:**
 
 **Option 1: Featured Vendor Row**
 Take 1 face-up card (vendor or venue) from the Featured Vendor Row (FVR) and add it to your hand.
@@ -308,7 +308,7 @@ When all effort boxes on a task are filled, it completes. Gain its gifts, resolv
 **Key tasks** are marked on the worksheet. Completing a key task unlocks the next group of dependent tasks. Key tasks can only be worked on by you, not by helpers or your wedding planner.
 
 **3. Wedding Planner Effort (Optional)**
-If contracted with your wedding planner, you have a separate pool of 3 effort cubes that can be applied to any unlocked, non-key task at any time on your turn.
+If contracted with your wedding planner, you have a separate pool of 3 effort cubes that can be applied to any unlocked, non-key task during any Plan action.
 
 ---
 
@@ -342,7 +342,7 @@ Place the card in your next available helper slot on your player board:
 
 ## 6. MOMENTS
 
-Moments represent the actual wedding ceremony and reception highlights captured in time. They are **spatial patterns** on your 3×3 booking grid.
+Every wedding has moments that define it. In The Wedding Planner, those moments live in the shape of your choices, specifically the vendors you book. Their placement on your grid forms patterns, patterns that tell the story of your wedding day.
 
 ### Moment Scoring
 
@@ -374,20 +374,7 @@ Your wedding's **theme** is the aesthetic vision that ties your choices together
 
 ### Theme Cards
 
-At setup, you drew 2 Theme cards from the 10 possible themes. Each Theme card combines 2 elements:
-
-- **Classic** (Tradition + Elegance)
-- **Bohemian** (Whimsy + Nature)
-- **Contemporary** (Edge + Tradition)
-- **Eclectic** (Whimsy + Edge)
-- **Fairytale** (Whimsy + Elegance)
-- **Garden** (Nature + Elegance)
-- **Glamorous** (Edge + Elegance)
-- **Industrial** (Edge + Nature)
-- **Romantic** (Whimsy + Tradition)
-- **Rustic** (Nature + Tradition)
-
-At the first Check-In (after Month 3), you'll choose 1 of your 2 Theme cards and place it on your Vision board. This determines which 2 elements are your "theme elements" for Theme Goal scoring.
+At setup, you drew 2 Theme cards from the 10 possible themes. Each Theme card combines 2 elements. At the first Check-In (after Month 3), you'll choose 1 of your 2 Theme cards and place it on your Vision board. This determines which 2 elements are your "theme elements" for Theme Goal scoring.
 
 ### Theme Element Trackers
 
@@ -434,7 +421,7 @@ All venues have powerful **"When Booked"** effects that trigger immediately when
 - **In-House Vendors:** Add unique vendor cards to your hand (not from regular decks)
 - **Referrals:** Draw vendors from specified categories
 - **Task Completion/Effort:** Auto-complete or apply effort to specific tasks
-- **Constraints:** Impose restrictions or requirements
+- **Constraints:** Limit what you can book, or in what order
 
 If a venue instructs you to take an in-house vendor, find it on the In-House Vendor Sheet and slip it out of its sleeve into your hand.
 
@@ -571,7 +558,7 @@ Every player has a Balanced bonus. At endgame, if your 2 theme elements are exac
 
 Budget Goals evaluate the cost distribution of your booked cards. DIY cards do not count.
 
-At endgame, count how many cards you booked at each cost tier (1-cost, 2-cost, 3-cost). You score your goal if no other cost tier has more cards than your chosen tier.
+At endgame, count how many cards you booked at each cost tier (1-cost, 2-cost, 3-cost). You score your goal if your chosen tier has the most cards among all tiers. If two or more tiers are tied for the most, you score as long as yours is one of them.
 
 **Extravagant - 15 gifts**
 Most of your booked cards cost 3+ coins.
@@ -590,7 +577,7 @@ Most of your booked cards cost 1 coin.
 
 Excitement Goals evaluate the excitement distribution of your booked cards. DIY cards do not count.
 
-At endgame, count how many cards you booked at each excitement value (1-excitement, 2-excitement, 3-excitement). You score your goal if no other excitement tier has more cards than your chosen tier.
+At endgame, count how many cards you booked at each excitement value (1-excitement, 2-excitement, 3-excitement). You score your goal if your chosen tier has the most cards among all tiers. If two or more tiers are tied for the most, you score as long as yours is one of them.
 
 **Spectacular - 15 gifts**
 Most of your booked cards grant 3+ excitement.
@@ -632,6 +619,22 @@ At Check-In, choose one of these 9 Guest Goals:
 ## 14. AWARDS
 
 There are two types of awards: Race Awards and Endgame Awards. Race Awards go to the first player to achieve a specific milestone. If multiple players reach it in the same month, all of them receive it. Endgame Awards are evaluated at the end of the game and go to whoever best meets the condition.
+
+### Race Awards (7 gifts)
+
+- **First Spark** -- Be the first player to reach 12 excitement
+- **Ahead of Schedule** -- Be the first player to complete 8 tasks
+- **Booking Momentum** -- Be the first player to book 4 vendors
+- **DIY Sprint** -- Be the first player to DIY 3 vendors
+- **Theme Breakthrough** -- Be the first player to reach 5 on any one theme element track
+
+### Endgame Awards (5 gifts)
+
+- **Most Well-Rounded** -- Have the most different vendor categories among your vendors (including DIY)
+- **Most On-Theme Vendors** -- Have the most vendors matching at least one of your chosen theme elements
+- **Most Planned** -- Have the highest number of completed tasks
+- **Most Balanced Theme** -- Your weakest theme element is stronger than every other player's
+- **Strongest Theme Element** -- Your strongest theme element is stronger than every other player's
 
 ---
 
@@ -685,10 +688,10 @@ After scoring, return the following before storing the game:
 1. Choose action, move meeple
 2. Resolve action
 3. Resolve bonus actions (don't move meeple)
-4. Check hand limit (5 cards total, 3 venues max before booking venue)
+4. Check hand limit (5 cards total, at most 3 venues)
 
 ### Four Actions
-**Book:** Pay cost → Place vendor/venue in grid → gain theme/excitement → check moment → resolve "When Booked" effects → bonus action
+**Book:** Pay → Place → Theme/Excitement → Moment → Effect → Bonus
 **Plan:** Apply 3 effort to unlocked tasks
 **Help:** Draw from Money/Effort/Research deck, choose option, place in slot (max 3)
 **Research:** FVR (take 1) / Category (draw 2) / Browse (flip Research card and draw 4 or draw 3 + 1 venue)
