@@ -44,7 +44,7 @@ The game plays over **12 months** organized into **4 quarters**. Between quarter
 - **10 Theme cards**
 - **10 Personality tent cards**
 - **18 Help cards** (6 Money, 6 Effort, 6 Research)
-- **16 Double-sided Moment cards** (4 Small, 8 Medium, 4 Large)
+- **16 Double-sided Moment cards**
 - **10 Award cards** (5 Race, 5 Endgame)
 - **18 Research cards**
 
@@ -115,7 +115,7 @@ Take a player board and place it in front of you.
 Take a task worksheet and place it on your player board in the task area.
 
 **3. Take a set of Goals**
-Take a complete set of goals (theme, budget, excitement, and guest goals) and place them next to your player board.
+Take a complete set of goals (theme, budget, excitement, and guest goals, plus the Theme Bonus) and place them next to your player board.
 
 **4. Draft Personality**
 Each player draws 2 Personality tent cards, chooses 1, and discards the other.
@@ -223,8 +223,8 @@ After month 12, proceed directly to **End of Game** (no Check-In).
 **1. Choose Action:** At the start of her turn, Jennifer must move her meeple, so she cannot Plan again while it is already on Plan. She instead chooses the Book action and moves her meeple to Book on her player board.
 
 **2. Resolve Action:** Jennifer plays a 2-cost, 2-excitement Flowers & Decorations vendor (Nature + Elegance) from her hand, pays 2 coins, and places it in grid position 1 (top-left).
-- She advances Nature +1 and Elegance +1 on her theme element trackers
-- She gains +2 excitement and advances her excitement tracker
+- She advances her Nature and Elegance trackers by 1 each
+- She advances her excitement tracker by 2
 - She checks for completed Moments but sees no patterns completed
 
 **3. Bonus Action:** Grid position 1 grants a Research bonus. Jennifer takes the Research action as a bonus (and does **not** move her meeple). She chooses to research from the Featured Vendor Row and takes 1 face-up vendor from the row that matches her theme and budget perfectly.
@@ -280,7 +280,7 @@ Advance each theme element tracker shown on the card by 1.
 Advance your excitement tracker by the amount shown on the card.
 
 **6. Check Moments**
-Check if your grid completes any moment. If yes, score it immediately (see **Section 7: Moments**).
+Check if your grid completes any moment. If yes, score it immediately (see **Moments** in Section 7).
 
 **7. Resolve "When Booked" Effect**
 If the card has a "When Booked" effect, resolve it immediately.
@@ -427,7 +427,7 @@ Your excitement track runs from 0-30. At every 5 positions (5, 10, 15, 20, 25, 3
 
 ### Venues
 
-Venues are the centerpiece of your wedding - the physical space where your ceremony and reception occur.
+Venues are the centerpiece of your wedding, the physical space where your ceremony and reception occur.
 
 #### Venue Basics
 
@@ -465,7 +465,7 @@ You may have at most 3 venue cards in hand at any time. Once you book a venue, i
 
 ### Wedding Planners
 
-Wedding Planners offer professional services that ease the planning process - for a price.
+Wedding Planners offer professional services that ease the planning process, for a price.
 
 #### Contracting
 
@@ -623,7 +623,7 @@ At Check-In, choose one of these 9 Guest Goals:
 - **Pampered:** Favors & Gifts vendors
 - **Spoiled:** Transportation vendors
 
-*(No Guest Goal for Venue - you must book exactly 1 venue.)*
+*(No Guest Goal for Venue. You must book exactly 1 venue.)*
 
 **Scoring at endgame:**
 - **3+ vendors** in chosen category: **15 gifts**
