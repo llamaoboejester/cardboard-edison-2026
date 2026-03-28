@@ -1,6 +1,6 @@
 # THE WEDDING PLANNER
 
-**For 2-4 Players | Ages 10+ | 60-90 Minutes**
+**For 2-4 Players | Ages 12+ | 60-90 Minutes**
 
 ---
 
@@ -20,7 +20,7 @@ The game plays over **12 months** organized into **4 quarters**. Between quarter
 ### Player Components (×4 sets)
 - **1 Player Board**
 - **1 Set of Trackers and pawns**
-- **1 Set of Goals** (4 Theme, 3 Budget, 3 Excitement, 9 Guest)
+- **1 Set of Goals** (4 Theme Goal, 3 Budget Goal, 3 Excitement Goal, 9 Guest Goal, 1 Theme Bonus)
 - **1 Meeple**
 
 ### Shared Components
@@ -40,7 +40,7 @@ The game plays over **12 months** organized into **4 quarters**. Between quarter
 - **8 Wedding Planner Contracts**
 - **1 In-House Vendor Sheet** (6 vendors)
 - **10 Theme cards**
-- **8 Double-sided Personality cards**
+- **10 Personality tent cards**
 - **18 Help cards** (6 Money, 6 Effort, 6 Research)
 - **16 Double-sided Moment cards** (4 Small, 8 Medium, 4 Large)
 - **10 Award cards** (5 Race, 5 Endgame)
@@ -116,7 +116,7 @@ Take a task worksheet and place it on your player board in the task area.
 Take a complete set of goals (theme, budget, excitement, and guest goals) and place them next to your player board.
 
 **4. Draft Personality**
-Each player draws 2 Personality cards, chooses 1, and discards the other face-down.
+Each player draws 2 Personality tent cards, chooses 1, and discards the other.
 
 **5. Receive Starting Coins**
 Take your starting 12 coins.
@@ -134,7 +134,7 @@ Draw 1 Wedding Planner Contract randomly. Flip the exclusive venue in the sleeve
 - Place your **Meeple** on your Vision board area (starting position)
 
 **9. Apply Personality Setup**
-If playing with Personalities, follow the setup instructions on your chosen Personality card. These may modify your starting coins, hand, trackers, or other components established in the steps above.
+If playing with Personalities, follow any setup instructions on your chosen Personality tent card. These may modify your starting coins, hand, trackers, or other components established in the steps above.
 
 ### Final Shared Steps
 
@@ -150,9 +150,9 @@ The Featured Vendor Row is a shared face-up display at the bottom of the Researc
 ### Setup Complete!
 
 Your table should now show:
-- Game board in the center with 3 shared help decks, 3 Moment cards, 2 Award cards, and the Timeline token on Month 1
-- Research board in center with category decks, venue deck, research deck, and 5 face-up cards in Featured Vendor Row
-- Each player with board, a set of goals, meeple on Vision, trackers at 0, 2 Theme cards in hand, Personality card visible, Wedding Planner contract visible, and starting coins.
+- The central board in the center with category decks, venue deck, research deck, 5 face-up cards in the Featured Vendor Row, 3 shared help decks, and the Timeline token on Month 1
+- 3 Moment cards and 2 Award cards in stands
+- Each player with a board, a set of goals, meeple on Vision, trackers at 0, 2 Theme cards in hand, Personality tent card visible to others, Wedding Planner contract visible, and starting coins.
 
 The first player begins Month 1!
 
