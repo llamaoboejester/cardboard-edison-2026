@@ -625,24 +625,17 @@ There are two types of awards: Race Awards and Endgame Awards. Race Awards go to
 
 After everyone completes Month 12, the game ends. **There is no Check-In after Month 12.**
 
-### Final Steps (Before Scoring)
-
-**Convert Excitement**
-Your final excitement position converts **directly to gifts**. Take that many gift tokens.
-*Example: Excitement at position 18 = 18 gifts.*
-
 ### Scoring
-By this point, everyone has already received gifts for excitement, task completion, moments, and the race award.
 
-#### 1. Goals
-Reveal all 3 of your goals and evaluate whether you achieved them. Award gifts for achieved goals:
+Begin with the gifts already collected from moments, completed tasks, and the race award, then proceed in order:
 
-**Theme Goals:** 10-30 gifts (+ 5 if balanced)
-**Budget Goals:** 5-15 gifts
-**Excitement Goals:** 5-15 gifts
-**Guest Goals:** 5-15 gifts
+#### 1. Convert Excitement
+Gain gifts equal to your final excitement.
 
-#### 2. Awards
+#### 2. Goals
+Reveal all 3 of your goals and evaluate whether you achieved them. Check for the Balanced bonus.
+
+#### 3. Awards
 Evaluate the Endgame Award and give the award winner 5 gifts.
 
 ### Total Scores
@@ -652,12 +645,14 @@ Count up your gifts and compare your totals.
 
 If you tie on total gifts, apply these tiebreakers in order:
 
-1. **Most vendors booked** (9-10 vendors vs fewer)
+1. **Most vendors booked**
 2. If still tied: **Most tasks completed**
 3. If still tied: **Highest excitement position**
 4. If still tied: **Shared victory**
 
 ### Winner!
+
+The player with the most gifts wins!
 
 ---
 
@@ -670,10 +665,6 @@ After scoring, return the following before storing the game:
 
 ---
 
-The player with the most gifts wins!
-
----
-
 ## 12. QUICK REFERENCE
 
 ### Turn Structure
@@ -683,28 +674,10 @@ The player with the most gifts wins!
 4. Check hand limit (5 cards total, 3 venues max before booking venue)
 
 ### Four Actions
-**Book:** Pay cost → Place vendor/venue in grid → gain theme/excitement → check moment → bonus action
+**Book:** Pay cost → Place vendor/venue in grid → gain theme/excitement → check moment → resolve "When Booked" effects → bonus action
 **Plan:** Apply 3 effort to unlocked tasks
 **Help:** Draw from Money/Effort/Research deck, choose option, place in slot (max 3)
 **Research:** FVR (take 1) / Category (draw 2) / Browse (flip Research card and draw 4 or draw 3 + 1 venue)
-
-### Milestones
-
-**Theme Element Trackers:**
-- Position 2 or 5: +1 excitement
-- Position 8: 5 gifts
-
-**Excitement Track:**
-- Every 5 positions: Choose 1 venue or any vendor from any category OR 1 coin
-- (If contracted with planner: may draw from FVR)
-
-**Completed Tasks Tracker:**
-- Position 4: Apply 1 effort to any unlocked task
-- Position 8: Apply 1 effort to any unlocked task
-- Position 10: +1 excitement
-- Position 12: Apply 1 effort to any unlocked task
-- Position 16: Apply 1 effort to any unlocked task
-- Position 20: 5 gifts
 
 ### Check-Ins (After Months 3, 6, 9)
 1. Move all meeples to Vision
@@ -715,13 +688,9 @@ The player with the most gifts wins!
 6. Seed new FVR (5 cards)
 
 ### Scoring Summary
-1. **Excitement:** Final position (1:1 to gifts)
-2. **Goals:** Evaluate 3 goals
-   - Theme: 10-30 gifts (+ 5 if balanced)
-   - Budget: 5-15 gifts
-   - Excitement: 5-15 gifts
-   - Guest: 5-15 gifts
-3. **Endgame Awards:** 5 gifts each
+1. **Excitement:** Gain gifts equal to your final excitement
+2. **Goals:** Evaluate the 3 goals set at Check-In
+3. **Awards:** Determine the Endgame Award recipient
 
 **Tiebreaker:** Most vendors → Most tasks → Highest excitement → Shared victory
 
@@ -751,11 +720,11 @@ No element outside your theme can outrank both of your theme elements. Ties are 
 
 ## Designer Notes
 
-The Wedding Planner began as a love letter to the wedding planning process - the overwhelming task lists, the hunt for the perfect vendors, the tension between vision and budget. After three years of brainstorming, design, and development and more than a hundred hours of playtesting, the game has evolved into a medium-weight euro that celebrates weddings in all their forms.
+The Wedding Planner began as a love letter to the wedding planning process: the overwhelming task lists, the hunt for the perfect vendors, the tension between vision and budget. After three years of brainstorming, design, development, and more than a hundred hours of playtesting, the game has evolved into a medium-weight euro that celebrates weddings in all their forms.
 
 Special thanks to our playtesters, whose feedback has shaped every system. To the couples who shared their wedding stories. To everyone who sees themselves in this game.
 
-May your wedding - in cardboard or in life - be filled with joy, laughter, and love.
+May your wedding, in cardboard or in life, be filled with joy, laughter, and love.
 
 Jose Alberto Lema
 
