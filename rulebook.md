@@ -50,10 +50,6 @@ The game plays over **12 months** organized into **4 quarters**. Between quarter
 
 ## 3. SETUP
 
-> **First Game?** For Moments, use *The Rehearsal* set. For Awards, use *First Spark* and *Most Well-Rounded*.
-
-> **Variant: Competitive Venue** Use the provided 2nd copy of each standard venue in the venue deck (24 venues total). Once a Venue is booked, the other copy is immediately removed from the game, even if it is in a player's hand.
-
 Follow these steps in order:
 
 ### Shared Setup
@@ -66,6 +62,8 @@ Shuffle all 9 vendor category decks separately. Place them face-down on the cent
 
 **3. Prepare Venue Deck**
 Shuffle all 12 venue cards and place them face-down on the central board in the Venue space.
+
+> **Variant: Stolen Venue** Use the provided 2nd copy of each standard venue in the venue deck (24 venues total). Once a Venue is booked, the other copy is immediately removed from the game, even if it is in a player's hand.
 
 **4. Place In-House Vendor Sheet**
 Place the In-House Vendor Sheet near the central board. All 6 in-house vendors should be in their sleeves and available. In-house vendors are identified by an asterisk (✱) in the top right corner of the card back.
@@ -83,12 +81,17 @@ Separate the 18 Help cards into three decks by type (Money, Effort, Research, 6 
 Shuffle all 16 Moment cards together and randomly draw 3. Place them in stands where all players can see them.
 
 **Recommended Sets:**
-- **The Rehearsal** (first game): The Aisle, The Promise, The Union
+- **The Rehearsal** (introductory): The Aisle, The Promise, The Union
 - **The Ceremony** (intermediate): The Glance, The Spark, The Rings
 - **The Reception** (challenging): The Giving, The Dance, Forever
 
 **9. Reveal Award Cards**
 Separate the Award cards into Race Awards and Endgame Awards. Randomly draw 1 from each and place both in stands where all players can see them.
+
+**Recommended Sets:**
+- **The Rehearsal** (introductory): Booking Momentum + Most Well-Rounded
+- **The Ceremony** (intermediate): First Spark + Most Planned
+- **The Reception** (challenging): Theme Breakthrough + Most Balanced Theme
 
 **10. Prepare Personality Cards**
 Place the Personality cards near the play area.
@@ -448,6 +451,9 @@ Some in-house vendors also have their own "When Booked" effects that trigger whe
 ### Venue Hand Limit
 
 You may have at most 3 venue cards in hand at any time. Once you book a venue, immediately discard all remaining venues from your hand to the Featured Vendor Row.
+
+> **Variant: Stolen Venue** *(see Setup, Step 3)*
+> Once a venue is booked, its duplicate is immediately removed from the game -- even if it's in a player's hand.
 
 ---
 
