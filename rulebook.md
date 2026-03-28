@@ -4,7 +4,6 @@
 
 ---
 
-
 ## 1. INTRODUCTION
 
 You just got engaged! You have exactly one year to plan the wedding of your dreams. Research venues and vendors, book them into your wedding, tackle the never-ending to-do list, and lean on friends and family when it gets overwhelming, all while building excitement for the big day.
@@ -21,23 +20,14 @@ The game plays over **12 months** organized into **4 quarters**. Between quarter
 - **1 Player Board**
 - **1 Task Worksheet** (laminated for prototype)
 - **1 Set of Trackers and pawns**
-- **1 Set of Goals** (4 Theme Goal, 3 Budget Goal, 3 Excitement Goal, 9 Guest Goal, 1 Theme Bonus)
+- **1 Set of Goals** (19 goals, 1 bonus)
 - **1 Meeple**
 - **1 Wet erase marker**
 
 ### Shared Components
 
 **Cards:**
-- **108 Vendor cards**
-  - Ceremony (12)
-  - Stationery (12)
-  - Attire & Accessories (12)
-  - Photography (12)
-  - Flowers & Decorations (12)
-  - Food & Drink (12)
-  - Entertainment (12)
-  - Favors & Gifts (12)
-  - Transportation (12)
+- **108 Vendor cards** (9 categories, 12 each)
 - **12 Venue cards**
 - **8 Wedding Planner Contracts**
 - **1 In-House Vendor Sheet** (6 vendors)
@@ -49,8 +39,7 @@ The game plays over **12 months** organized into **4 quarters**. Between quarter
 - **18 Research cards**
 
 **Boards & Tokens:**
-- **1 Game Board**
-- **1 Research Board**
+- **1 Central Board**
 - **5 Card Stands** (3 for Moments, 2 for Awards)
 - **1 First Player token**
 - **1 Timeline token**
@@ -61,7 +50,7 @@ The game plays over **12 months** organized into **4 quarters**. Between quarter
 
 ## 3. SETUP
 
-> **First Game?** For Moments, use **The Rehearsal** set. For Awards, use *First Spark* and *Most Well-Rounded*.
+> **First Game?** For Moments, use *The Rehearsal* set. For Awards, use *First Spark* and *Most Well-Rounded*.
 
 > **Variant: Competitive Venue** Use the provided 2nd copy of each standard venue in the venue deck (24 venues total). Once a Venue is booked, the other copy is immediately removed from the game, even if it is in a player's hand.
 
@@ -69,17 +58,17 @@ Follow these steps in order:
 
 ### Shared Setup
 
-**1. Place Boards**
-Place the Game Board and Research Board in the center of the table, accessible to everyone.
+**1. Place Central Board**
+Place the central board in the center of the table, accessible to everyone.
 
 **2. Prepare Vendor Decks**
-Shuffle all 9 vendor category decks separately. Place them face-down on the Research board in their designated category spaces.
+Shuffle all 9 vendor category decks separately. Place them face-down on the central board in their designated category spaces.
 
 **3. Prepare Venue Deck**
-Shuffle all 12 venue cards and place face-down on the Research Board in the Venue space.
+Shuffle all 12 venue cards and place them face-down on the central board in the Venue space.
 
 **4. Place In-House Vendor Sheet**
-Place the In-House Vendor Sheet near the Research Board. All 6 in-house vendors should be in their sleeves and available. In-house vendors are identified by an asterisk (✱) in the top right corner of the card back.
+Place the In-House Vendor Sheet near the central board. All 6 in-house vendors should be in their sleeves and available. In-house vendors are identified by an asterisk (✱) in the top right corner of the card back.
 
 **5. Prepare Research Deck**
 Shuffle the Research cards and place face-down on the Research space.
@@ -88,7 +77,7 @@ Shuffle the Research cards and place face-down on the Research space.
 Shuffle the Theme deck and place face-down near the play area.
 
 **7. Prepare Help Decks**
-Separate the 18 Help cards into three decks by type (Money, Effort, Research, 6 cards each). Shuffle each and place face-down on the Game Board.
+Separate the 18 Help cards into three decks by type (Money, Effort, Research, 6 cards each). Shuffle each and place face-down on the central board.
 
 **8. Reveal Moment Cards**
 Shuffle all 16 Moment cards together and randomly draw 3. Place them in stands where all players can see them.
@@ -99,10 +88,10 @@ Shuffle all 16 Moment cards together and randomly draw 3. Place them in stands w
 - **The Reception** (challenging): The Giving, The Dance, Forever
 
 **9. Reveal Award Cards**
-Shuffle the 10 Award cards. Randomly draw 1 Race Award and 1 Endgame Award. Place both in stands where all players can see them.
+Separate the Award cards into Race Awards and Endgame Awards. Randomly draw 1 from each and place both in stands where all players can see them.
 
-**10. Prepare Personality Deck**
-Shuffle the Personality deck and place face-down near the play area.
+**10. Prepare Personality Cards**
+Place the Personality cards near the play area.
 
 ### Player Setup
 
@@ -114,10 +103,10 @@ Take a player board and place it in front of you.
 **2. Take Task Worksheet**
 Take a task worksheet and place it on your player board in the task area.
 
-**3. Take a set of Goals**
+**3. Take Goal Set**
 Take a complete set of goals (theme, budget, excitement, and guest goals, plus the Theme Bonus) and place them next to your player board.
 
-**4. Draft Personality**
+**4. Draw Personality Card**
 Each player draws 2 Personality tent cards, chooses 1, and discards the other.
 
 **5. Receive Starting Coins**
@@ -126,13 +115,12 @@ Take your starting 12 coins.
 **6. Draw Theme Cards**
 Draw 2 Theme cards from the Theme deck. Keep both hidden from everyone. You'll choose 1 at the first Check-In.
 
-**7. Receive a Wedding Planner Contract**
+**7. Draw Wedding Planner Contract**
 Draw 1 Wedding Planner Contract randomly. Flip the exclusive venue in the sleeve to see which venue your planner has secured for you. Place the contract near your player board. You can contract with your planner later in the game if desired.
 
 **8. Set Up Trackers**
 - Place your **Theme Element Trackers** on position 0 of each theme element track on your player board
 - Place your **Excitement Tracker** on position 0 of the excitement track on your player board
-- Place your **Completed Tasks Tracker** on position 0 of the completed tasks track on your player board
 - Place your **Meeple** on your Vision board area (starting position)
 
 **9. Apply Personality Setup**
@@ -147,14 +135,14 @@ The first player is the player whose wedding is the closest (either in the past 
 The first player takes the Timeline token and sets it to Month 1 on the timeline.
 
 **3. Seed Featured Vendor Row (FVR)**
-The Featured Vendor Row is a shared face-up display at the bottom of the Research board. It starts empty and will fill with vendors (and later, venues) throughout the game. To seed it: the first player chooses 5 distinct vendor categories and reveals 1 card from each, placing them face-up in the FVR.
+The Featured Vendor Row is a shared face-up display at the bottom of the central board. It starts empty and will fill with vendors (and later, venues) throughout the game. To seed it: the first player chooses 5 distinct vendor categories and reveals 1 card from each, placing them face-up in the FVR.
 
 ### Setup Complete!
 
 Your table should now show:
-- The central board in the center with category decks, venue deck, research deck, 5 face-up cards in the Featured Vendor Row, 3 shared help decks, and the Timeline token on Month 1
+- The central board with category decks, venue deck, research deck, 5 face-up cards in the Featured Vendor Row, 3 help decks, and the Timeline token on Month 1
 - 3 Moment cards and 2 Award cards in stands
-- Each player with a board, a set of goals, meeple on Vision, trackers at 0, 2 Theme cards in hand, Personality tent card visible to others, Wedding Planner contract visible, and starting coins.
+- Each player with their own player board, a set of goals, meeple on Vision, trackers at 0, 2 Theme cards face-down, Personality tent card visible to others, Wedding Planner contract visible, and starting coins.
 
 The first player begins Month 1!
 
@@ -162,7 +150,7 @@ The first player begins Month 1!
 
 ## 4. HOW TO PLAY
 
-The Wedding Planner plays over **12 months** in **4 quarters**: Q1 (1-3), Q2 (4-6), Q3 (7-9), Q4 (10-12).
+The Wedding Planner plays over **12 months** in **4 quarters**.
 
 ### Turn Structure
 
@@ -172,18 +160,18 @@ On your turn:
 3. **Resolve any bonus actions**
 4. **Check hand limit** (end of turn)
 
-After your turn, play passes clockwise. After all players have taken their turn, advance the timeline token. The **Quarters and Check-Ins** section below covers what happens when the token lands on a Check-In space.
+After your turn, play passes clockwise. After all players have taken their turn, advance the timeline token. The **Quarters and Check-Ins** section covers what happens when the token lands on a Check-In space.
 
 #### 1. Choose and Move to an Action
 
-Choose ONE action and move your meeple to its location:
+Choose an action and move your meeple to its location:
 
 | Action | What it does | Where to move |
 |--------|-------------|---------------|
-| **Research** | Acquire vendor or venue cards | Research board |
-| **Book** | Place a vendor or venue in your 3×3 grid | Your player board |
-| **Plan** | Apply effort to tasks on your worksheet | Your player board |
-| **Help** | Draw from a shared Help deck | Game board |
+| **Research** | Acquire vendor or venue cards | Central board, research area |
+| **Book** | Place a vendor or venue in your 3×3 grid | Player board, grid area |
+| **Plan** | Apply effort to tasks on your worksheet | Player board, task area |
+| **Help** | Draw from a shared Help deck | Central board, help area |
 
 **Important:** You **must move your meeple** at the beginning of every month. Since you begin the game on your Vision board, you may choose any action during the first month.
 
@@ -195,20 +183,11 @@ Follow the steps for your chosen action (see **Section 5: Actions in Detail**).
 
 #### 3. Resolve Bonus Actions
 
-Some effects grant **bonus actions** (Book, Plan, Help, or Research). When you take a bonus action:
-- Do **not** move your meeple
-- Resolve the action normally
+Some effects grant **bonus actions**. Resolve them normally, but do **not** move your meeple.
 
 #### 4. Check Hand Limit
 
-At the end of your turn, you must meet the **hand limit**:
-- **Default:** 5 cards total (vendors + venues combined)
-
-**Venue-Specific Limits:**
-- **Before booking a venue:** Maximum 3 venues in hand
-- **After booking a venue:** Must discard all remaining venues from hand by end of turn
-
-Discard excess cards face-up to the Featured Vendor Row.
+At the end of your turn, discard any excess cards face-up to the Featured Vendor Row (hand limit: 5 cards total). You may have at most 3 venue cards in hand at any time. Once you book a venue, immediately discard all remaining venues from your hand to the Featured Vendor Row.
 
 ### Quarters and Check-Ins
 
@@ -222,12 +201,12 @@ After month 12, proceed directly to **End of Game** (no Check-In).
 
 **1. Choose Action:** At the start of her turn, Jennifer must move her meeple, so she cannot Plan again while it is already on Plan. She instead chooses the Book action and moves her meeple to Book on her player board.
 
-**2. Resolve Action:** Jennifer plays a 2-cost, 2-excitement Flowers & Decorations vendor (Nature + Elegance) from her hand, pays 2 coins, and places it in grid position 1 (top-left).
+**2. Resolve Action:** Jennifer books a 2-cost, 2-excitement Flowers & Decorations vendor (Nature + Elegance) from her hand, pays 2 coins, and places it in her grid.
 - She advances her Nature and Elegance trackers by 1 each
 - She advances her excitement tracker by 2
 - She checks for completed Moments but sees no patterns completed
 
-**3. Bonus Action:** Grid position 1 grants a Research bonus. Jennifer takes the Research action as a bonus (and does **not** move her meeple). She chooses to research from the Featured Vendor Row and takes 1 face-up vendor from the row that matches her theme and budget perfectly.
+**3. Bonus Action:** The position she chose grants a Research bonus. Jennifer takes the Research action as a bonus (and does **not** move her meeple). She chooses to research from the Featured Vendor Row and takes 1 face-up vendor from the row that matches her theme and budget perfectly.
 
 **4. Hand Limit:** Jennifer is now back to 3 vendors in hand (which is still under the 5-card limit). Her turn ends.
 
@@ -280,7 +259,7 @@ Advance each theme element tracker shown on the card by 1.
 Advance your excitement tracker by the amount shown on the card.
 
 **6. Check Moments**
-Check if your grid completes any moment. If yes, score it immediately (see **Moments** in Section 7).
+Check if your grid completes any moment. If yes, score it immediately (see **Moments** in Section 6).
 
 **7. Resolve "When Booked" Effect**
 If the card has a "When Booked" effect, resolve it immediately.
@@ -295,6 +274,12 @@ Immediately take the bonus action shown on the grid space where you booked. Do n
 > Instead of paying a vendor's cost and booking face-up, you may book any vendor **face-down as DIY** for free. DIY represents doing it yourself or calling on family and friends rather than hiring a professional.
 >
 > DIY bookings still complete moments, trigger grid bonus actions, unlock task dependencies, and contribute to guest goals.
+
+> **Book in Action: Frankie's DIY Florist**
+>
+> *(two images side by side: left -- Frankie's grid with 6 positions filled and the two center column positions empty, a Flowers & Decorations vendor shown; right -- the same grid with the vendor placed face-down, The Rings complete)*
+>
+> Frankie needs one more booking to complete The Rings, but she's down to her last coin and the Flowers & Decorations vendor she's holding costs more than that. She books it face-down as DIY -- free of charge. It fills the position, completes The Rings, and scores her 6 gifts as the first to complete it. She gives up the theme elements and excitement the card would have provided, but the Moment was worth it -- and she still has that coin for her next booking.
 
 ---
 
@@ -352,28 +337,31 @@ Place the card in your next available helper slot on your player board:
 
 ---
 
-## 6. PERSONALITIES
+## 6. MOMENTS
 
-Personalities add variety between plays and nudge you toward different strategies. Each one changes how you play in a unique way.
+Moments represent the actual wedding ceremony and reception highlights captured in time. They are **spatial patterns** on your 3×3 booking grid.
 
-At setup, each player is dealt two Personality tent cards, chooses one, and discards the other. Your Personality is yours for the entire game and may do any combination of the following:
+### Moment Scoring
 
-- Modify your starting components
-- Change an existing rule for you
-- Restrict certain actions
-- Give you a one-time ability to use when the moment is right
+Check after every booking action, including bonus bookings. If your grid exactly matches a revealed Moment, score it immediately. Filled positions must have cards booked, and empty positions must be empty.
 
-The card is self-contained. Everything you need to know is printed on it.
+Each Moment shows two values: **First** and **Others**. Everyone who completes a Moment in the same month receives the First value. After that month ends, all subsequent completers receive the Others value.
+
+> **A Moment in Action: The Rings**
+>
+> *(card image)*
+>
+> The Rings requires 7 booked positions -- every position except the top and bottom center. When you place your seventh card into one of those positions, check your grid. If the two center positions are still empty and everything else is filled, you've completed The Rings and score immediately.
+>
+> "A bond made visible, a vow made real."
 
 ---
 
-## 7. GAME SYSTEMS
-
-### Theme System
+## 7. THEME SYSTEM
 
 Your wedding's **theme** is the aesthetic vision that ties your choices together. The theme system uses five elements that appear on vendor and venue cards.
 
-#### The Five Theme Elements
+### The Five Theme Elements
 
 1. **Whimsy** (pink spiral) - Playful, magical, whimsical
 2. **Edge** (purple lightning) - Bold, modern, unconventional
@@ -381,7 +369,7 @@ Your wedding's **theme** is the aesthetic vision that ties your choices together
 4. **Tradition** (maroon rings) - Classic, formal, traditional
 5. **Elegance** (gold diamond) - Luxurious, refined, sophisticated
 
-#### Theme Cards
+### Theme Cards
 
 At setup, you drew 2 Theme cards from the 10 possible themes. Each Theme card combines 2 elements:
 
@@ -398,7 +386,7 @@ At setup, you drew 2 Theme cards from the 10 possible themes. Each Theme card co
 
 At the first Check-In (after Month 3), you'll choose 1 of your 2 Theme cards and place it on your Vision board. This determines which 2 elements are your "theme elements" for Theme Goal scoring.
 
-#### Theme Element Trackers
+### Theme Element Trackers
 
 Your player board has 5 theme element trackers (Whimsy, Edge, Nature, Tradition, Elegance), each with positions 0-8+.
 
@@ -413,7 +401,7 @@ When you book a vendor or venue face-up, advance each theme element tracker show
 
 ---
 
-### Excitement System
+## 8. EXCITEMENT SYSTEM
 
 **Excitement** represents the buzz and anticipation building for your wedding. It is gained from bookings, theme element milestones, key task completions, fallback bonuses, and setting public goals. At game end, your final excitement position converts directly to gifts.
 
@@ -425,17 +413,17 @@ Your excitement track runs from 0-30. At every 5 positions (5, 10, 15, 20, 25, 3
 
 ---
 
-### Venues
+## 9. VENUES
 
 Venues are the centerpiece of your wedding, the physical space where your ceremony and reception occur.
 
-#### Venue Basics
+### Venue Basics
 
 - Venues **must be booked in the center position** of your 3×3 grid
 - You **must book exactly 1 venue** per wedding
 - The center position grants the **"Any Action" bonus** when booked
 
-#### When Booked Effects
+### When Booked Effects
 
 All venues have powerful **"When Booked"** effects that trigger immediately when placed:
 
@@ -457,23 +445,23 @@ Some in-house vendors also have their own "When Booked" effects that trigger whe
 >
 > This is the heart of what venues offer: something exclusive you can only get by choosing them, and introductions to vendors they already trust.
 
-#### Venue Hand Limit
+### Venue Hand Limit
 
 You may have at most 3 venue cards in hand at any time. Once you book a venue, immediately discard all remaining venues from your hand to the Featured Vendor Row.
 
 ---
 
-### Wedding Planners
+## 10. WEDDING PLANNERS
 
 Wedding Planners offer professional services that ease the planning process, for a price.
 
-#### Contracting
+### Contracting
 
 At setup, you received one of eight Wedding Planner contracts. At any point during the game, on your turn, you may pay 3 coins to contract with your planner.
 
 Contracting is permanent. While contracted, your wedding may include at most one DIY vendor in total.
 
-#### The Three Services
+### The Three Services
 
 **Service 1: Access**
 When you reach excitement milestones and choose to draw a card, you may instead take a card from the Featured Vendor Row.
@@ -486,19 +474,22 @@ Your exclusive venue is sleeved onto your contract and visible from the start of
 
 ---
 
-### Moments
+## 11. PERSONALITIES
 
-Moments represent the actual wedding ceremony and reception highlights captured in time. They are **spatial patterns** on your 3×3 booking grid.
+Personalities add variety between plays and nudge you toward different strategies. Each one changes how you play in a unique way.
 
-#### Moment Scoring
+At setup, each player is dealt two Personality tent cards, chooses one, and discards the other. Your Personality is yours for the entire game and may do any combination of the following:
 
-Check after every booking action, including bonus bookings. If your grid exactly matches a revealed Moment, score it immediately. Filled positions must have cards booked, and empty positions must be empty.
+- Modify your starting components
+- Change an existing rule for you
+- Restrict certain actions
+- Give you a one-time ability to use when the moment is right
 
-Each Moment shows two values: **First** and **Others**. Everyone who completes a Moment in the same month receives the First value. After that month ends, all subsequent completers receive the Others value.
+The card is self-contained. Everything you need to know is printed on it.
 
 ---
 
-## 8. CHECK-INS
+## 12. CHECK-INS
 
 After Months 3, 6, and 9, everyone pauses for a **Check-In**. This is when you set goals and prepare for the next quarter.
 
@@ -533,7 +524,7 @@ Advance the timeline token to the next month and begin the next quarter. The fir
 
 ---
 
-## 9. GOALS
+## 13. GOALS
 
 Goals capture your vision for the wedding. Each goal type asks a different question about the kind of wedding you want to create and the kind of experience you want your guests to have. There are no wrong answers. Subtle is not less than Unforgettable. Refined is not less than Extravagant. The harder the vision is to achieve, the greater the reward, but the vision itself is yours alone.
 
@@ -632,13 +623,13 @@ At Check-In, choose one of these 9 Guest Goals:
 
 ---
 
-## 10. AWARDS
+## 14. AWARDS
 
 There are two types of awards: Race Awards and Endgame Awards. Race Awards go to the first player to achieve a specific milestone. If multiple players reach it in the same month, all of them receive it. Endgame Awards are evaluated at the end of the game and go to whoever best meets the condition.
 
 ---
 
-## 11. END OF GAME
+## 15. END OF GAME
 
 After everyone completes Month 12, the game ends. **There is no Check-In after Month 12.**
 
@@ -673,7 +664,7 @@ The player with the most gifts wins!
 
 ---
 
-## 12. CLEANUP
+## 16. CLEANUP
 
 After scoring, return the following before storing the game:
 
@@ -682,7 +673,7 @@ After scoring, return the following before storing the game:
 
 ---
 
-## 13. QUICK REFERENCE
+## 17. QUICK REFERENCE
 
 ### Turn Structure
 1. Choose action, move meeple
@@ -729,7 +720,7 @@ No element outside your theme can outrank both of your theme elements. Ties are 
 | Theme | A | B | C | Result |
 |-------|---|---|---|--------|
 | A + B | 5 | 5 | 5 | ✓ |
-| A + B | 5 | 5 | 4 | ✓ (also Thematic) |
+| A + B | 5 | 5 | 4 | ✓ |
 | A + B | 5 | 4 | 4 | ✓ |
 | A + B | 4 | 4 | 5 | ✗ |
 
