@@ -305,17 +305,17 @@ Apply effort toward completing tasks on your worksheet.
 **1. Apply 3 Effort**
 Distribute 3 effort marks across any unlocked tasks on your worksheet. You may apply all 3 to a single task or split them across multiple tasks.
 
-A task is unlocked when all of its requirements are met. Requirements are shown on the worksheet — a task may require a specific booking, a key task to be completed first, or both. Tasks with no requirements are always unlocked.
+A task is unlocked when all of its requirements are met. Requirements are shown on the worksheet: a task may require a specific booking, a key task to be completed first, or both. Tasks with no requirements are always unlocked.
 
 **2. Resolve Symbols**
 As you mark effort boxes, resolve any symbols immediately:
-- **F** — Apply 1 additional effort to any unlocked task
-- **X** — Gain 1 excitement
-- **[number]** — Gain that many gifts
+- **F:** Apply 1 additional effort to any unlocked task
+- **X:** Gain 1 excitement
+- **[number]:** Gain that many gifts
 
 When all effort boxes on a task are filled, it completes. Gain its gifts, resolve any remaining symbols, and mark it on your completed tasks tracker. Check the tracker for milestones.
 
-**Key tasks** are marked on the worksheet. Completing a key task unlocks the next group of dependent tasks. Key tasks can only be worked on by you — not by helpers or your wedding planner.
+**Key tasks** are marked on the worksheet. Completing a key task unlocks the next group of dependent tasks. Key tasks can only be worked on by you, not by helpers or your wedding planner.
 
 **3. Wedding Planner Effort (Optional)**
 If contracted with your wedding planner, you have a separate pool of 3 effort cubes that can be applied to any unlocked, non-key task at any time on your turn.
@@ -330,12 +330,12 @@ Wedding planning can feel overwhelming. Sometimes you need to call in a favor. T
 
 **1. Choose a Help Deck**
 Decide what kind of help you need and draw the top card from that deck:
-- **Money Help** — financial support
-- **Effort Help** — help with tasks (never key tasks)
-- **Research Help** — vendor connections and referrals
+- **Money Help:** financial support
+- **Effort Help:** help with tasks (never key tasks)
+- **Research Help:** vendor connections and referrals
 
 **2. Read and Resolve**
-Each card represents a person you've called. Read their offer and resolve it. Some cards present a choice — decide and follow through immediately.
+Each card represents a person you've called. Read their offer and resolve it. Some cards present a choice. Decide and follow through immediately.
 
 > **Note:** Some cards include a commitment with a penalty at endgame if not fulfilled. Read carefully before choosing.
 
@@ -350,7 +350,22 @@ Place the card in your next available helper slot on your player board:
 
 ---
 
-## 6. GAME SYSTEMS
+## 6. PERSONALITIES
+
+Personalities add variety between plays and nudge you toward different strategies. Each one changes how you play in a unique way.
+
+At setup, each player is dealt two Personality tent cards, chooses one, and discards the other. Your Personality is yours for the entire game and may do any combination of the following:
+
+- Modify your starting components
+- Change an existing rule for you
+- Restrict certain actions
+- Give you a one-time ability to use when the moment is right
+
+The card is self-contained. Everything you need to know is printed on it.
+
+---
+
+## 7. GAME SYSTEMS
 
 ### Theme System
 
@@ -386,7 +401,7 @@ At the first Check-In (after Month 3), you'll choose 1 of your 2 Theme cards and
 Your player board has 5 theme element trackers (Whimsy, Edge, Nature, Tradition, Elegance), each with positions 0-8+.
 
 **Gaining Theme Elements:**
-When you book a vendor or venue face-up, advance each theme element tracker shown on the card by 1. For each **Wild** icon, choose any tracker to advance by 1. Trackers stop at position 8 — no further progress or bonuses beyond that.
+When you book a vendor or venue face-up, advance each theme element tracker shown on the card by 1. For each **Wild** icon, choose any tracker to advance by 1. Trackers stop at position 8. No further progress or bonuses beyond that.
 
 **DIY vendors grant no theme elements.**
 
@@ -436,7 +451,7 @@ Some in-house vendors also have their own "When Booked" effects that trigger whe
 >
 > *(card image)*
 >
-> When you book the Sunlit Vineyard Lawn, their **Estate Wine Tasting** becomes exclusively available to you — an in-house Food and Drink vendor added to your hand that no other venue can offer. They also connect you with another Food and Drink vendor from their network.
+> When you book the Sunlit Vineyard Lawn, their **Estate Wine Tasting** becomes exclusively available to you, an in-house Food and Drink vendor added to your hand that no other venue can offer. They also connect you with another Food and Drink vendor from their network.
 >
 > This is the heart of what venues offer: something exclusive you can only get by choosing them, and introductions to vendors they already trust.
 
@@ -481,7 +496,7 @@ Each Moment shows two values: **First** and **Others**. Everyone who completes a
 
 ---
 
-## 7. CHECK-INS
+## 8. CHECK-INS
 
 After Months 3, 6, and 9, everyone pauses for a **Check-In**. This is when you set goals and prepare for the next quarter.
 
@@ -516,7 +531,7 @@ Advance the timeline token to the next month and begin the next quarter. The fir
 
 ---
 
-## 8. GOALS
+## 9. GOALS
 
 Goals capture your vision for the wedding. Each goal type asks a different question about the kind of wedding you want to create and the kind of experience you want your guests to have. There are no wrong answers. Subtle is not less than Unforgettable. Refined is not less than Extravagant. The harder the vision is to achieve, the greater the reward, but the vision itself is yours alone.
 
@@ -615,13 +630,13 @@ At Check-In, choose one of these 9 Guest Goals:
 
 ---
 
-## 9. AWARDS
+## 10. AWARDS
 
-There are two types of awards: Race Awards and Endgame Awards. Race Awards go to the first player to achieve a specific milestone — if multiple players reach it in the same month, all of them receive it. Endgame Awards are evaluated at the end of the game and go to whoever best meets the condition.
+There are two types of awards: Race Awards and Endgame Awards. Race Awards go to the first player to achieve a specific milestone. If multiple players reach it in the same month, all of them receive it. Endgame Awards are evaluated at the end of the game and go to whoever best meets the condition.
 
 ---
 
-## 10. END OF GAME
+## 11. END OF GAME
 
 After everyone completes Month 12, the game ends. **There is no Check-In after Month 12.**
 
@@ -656,16 +671,16 @@ The player with the most gifts wins!
 
 ---
 
-## 11. CLEANUP
+## 12. CLEANUP
 
 After scoring, return the following before storing the game:
 
-1. **In-house vendors** — Collect all cards with an asterisk (✱) on the card back and return them to their sleeves on the In-House Vendor Sheet.
-2. **Exclusive venues** — Return each Wedding Planner's exclusive venue face-down to its sleeve on the respective Wedding Planner contract.
+1. **In-house vendors:** Collect all cards with an asterisk (✱) on the card back and return them to their sleeves on the In-House Vendor Sheet.
+2. **Exclusive venues:** Return each Wedding Planner's exclusive venue face-down to its sleeve on the respective Wedding Planner contract.
 
 ---
 
-## 12. QUICK REFERENCE
+## 13. QUICK REFERENCE
 
 ### Turn Structure
 1. Choose action, move meeple
@@ -707,7 +722,7 @@ After scoring, return the following before storing the game:
 
 **Q: What does "tied for the top two" mean on the Coordinated goal?**
 
-No element outside your theme can outrank both of your theme elements. Ties are fine — what fails Coordinated is a non-theme element sitting strictly above both of yours.
+No element outside your theme can outrank both of your theme elements. Ties are fine. What fails Coordinated is a non-theme element sitting strictly above both of yours.
 
 | Theme | A | B | C | Result |
 |-------|---|---|---|--------|
