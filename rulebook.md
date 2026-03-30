@@ -307,7 +307,10 @@ As you mark effort boxes, resolve any symbols immediately:
 - **X:** Gain 1 excitement
 - **[number]:** Gain that many gifts
 
-When all effort boxes on a task are filled, it completes. Gain its gifts, resolve any remaining symbols, and mark it on your completed tasks tracker. Check the tracker for milestones.
+When all effort boxes on a task are filled, it completes. Gain its gifts, resolve any remaining symbols, and mark it on your completed tasks tracker. Check the tracker for milestones:
+- **4, 8, 12, 16 tasks:** Gain 1 additional effort immediately
+- **10 tasks:** Gain 1 excitement
+- **20 tasks:** Gain 5 gifts
 
 **Key tasks** are marked on the worksheet. Completing a key task unlocks the next group of dependent tasks. Key tasks can only be worked on by you, not by helpers or your wedding planner.
 
@@ -459,7 +462,7 @@ Wedding Planners offer professional services that ease the planning process, for
 
 At setup, you received one of eight Wedding Planner contracts. At any point during the game, on your turn, you may pay 3 coins to contract with your planner. Take 3 effort trackers from the shared supply and place them on your contract. This does not consume your action.
 
-Contracting is permanent. While contracted, your wedding may include at most one DIY vendor in total. You may not contract if you already have two or more DIY bookings.
+Contracting is permanent. While contracted, your wedding may include at most one DIY booking in total. You may not contract if you already have two or more DIY bookings.
 
 ### The Three Services
 
@@ -650,6 +653,8 @@ There are two types of awards: Race Awards and Endgame Awards. Race Awards go to
 After everyone completes Month 12, the game ends. **There is no Check-In after Month 12.**
 
 ### Scoring
+
+> **Note:** If you did not book a venue, you cannot win regardless of your gift total.
 
 Begin with the gifts already collected from moments, completed tasks, and the race award, then proceed in order:
 
