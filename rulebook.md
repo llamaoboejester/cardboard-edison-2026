@@ -28,7 +28,7 @@ The game plays over **12 months** organized into **4 quarters**. Between quarter
 
 **Cards:**
 - **108 Vendor cards** (9 categories, 12 each)
-- **12 Venue cards**
+- **12 Venue cards** *(+ 12 duplicate copies for the Stolen Venue variant)*
 - **8 Wedding Planner Contracts**
 - **1 In-House Vendor Sheet** (6 vendors)
 - **10 Theme cards**
