@@ -127,7 +127,7 @@ Draw 1 Wedding Planner Contract randomly. Flip the exclusive venue in the sleeve
 - Place your **Meeple** on your Vision board area (starting position)
 
 **9. Apply Personality Setup**
-If playing with Personalities, follow any setup instructions on your chosen Personality tent card. These may modify your starting coins, hand, trackers, or other components established in the steps above.
+Follow any setup instructions on your chosen Personality tent card. These may modify your starting coins, hand, trackers, or other components established in the steps above.
 
 ### Final Shared Steps
 
@@ -176,7 +176,7 @@ Choose an action and move your meeple to its location:
 | **Plan** | Apply effort to tasks on your worksheet | Player board, task area |
 | **Help** | Draw from a shared Help deck | Central board, help area |
 
-**Important:** You **must move your meeple** at the beginning of every month. Since you begin the game on your Vision board, you may choose any action during the first month.
+**Important:** You **must move your meeple** at the beginning of every turn. Since you begin the game on your Vision board, you may choose any action during the first month.
 
 **Bonus actions do NOT move your meeple**, so they don't affect what action you can perform during the next month.
 
@@ -253,7 +253,7 @@ Select a vendor or venue card from your hand.
 Pay the cost shown on the card.
 
 **3. Place in the Grid**
-Place the card in an empty position on your 3×3 grid.
+Place the card in an empty position on your 3×3 grid. If booking a venue, it must go in the center space.
 
 **4. Gain Theme Elements**
 Advance each theme element tracker shown on the card by 1.
@@ -411,6 +411,7 @@ Venues are the centerpiece of your wedding, the physical space where your ceremo
 
 - Venues **must be booked in the center position** of your 3×3 grid
 - You **must book exactly 1 venue** per wedding
+- If you reach end of game without booking a venue, there is no wedding. You cannot win.
 - The center position grants the **"Any Action" bonus** when booked
 
 ### When Booked Effects
@@ -450,7 +451,7 @@ Wedding Planners offer professional services that ease the planning process, for
 
 ### Contracting
 
-At setup, you received one of eight Wedding Planner contracts. At any point during the game, on your turn, you may pay 3 coins to contract with your planner.
+At setup, you received one of eight Wedding Planner contracts. At any point during the game, on your turn, you may pay 3 coins to contract with your planner. This does not consume your action.
 
 Contracting is permanent. While contracted, your wedding may include at most one DIY vendor in total.
 
@@ -521,7 +522,7 @@ Advance the timeline token to the next month and begin the next quarter. The fir
 
 Goals capture your vision for the wedding. Each goal type asks a different question about the kind of wedding you want to create and the kind of experience you want your guests to have. There are no wrong answers. Subtle is not less than Unforgettable. Refined is not less than Extravagant. The harder the vision is to achieve, the greater the reward, but the vision itself is yours alone.
 
-Over the three Check-Ins, you will set three goals, one per Check-In.
+Over the three Check-Ins, you will set three of the four goal types, one per Check-In.
 
 ### 1. Theme Goals
 
@@ -618,7 +619,7 @@ At Check-In, choose one of these 9 Guest Goals:
 
 ## 14. AWARDS
 
-There are two types of awards: Race Awards and Endgame Awards. Race Awards go to the first player to achieve a specific milestone. If multiple players reach it in the same month, all of them receive it. Endgame Awards are evaluated at the end of the game and go to whoever best meets the condition.
+There are two types of awards: Race Awards and Endgame Awards. Race Awards go to the first player to achieve a specific milestone. If multiple players reach it in the same month, all of them receive it. Endgame Awards are evaluated at the end of the game and go to whoever best meets the condition. If tied, all tied players receive it.
 
 ### Race Awards (7 gifts)
 
