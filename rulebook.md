@@ -45,6 +45,7 @@ The game plays over **12 months** organized into **4 quarters**. Between quarter
 - **1 Timeline token**
 - **100 Gift tokens**
 - **60 Coin tokens**
+- **12 Wedding Planner effort trackers**
 
 ---
 
@@ -95,6 +96,9 @@ Separate the Award cards into Race Awards and Endgame Awards. Randomly draw 1 fr
 
 **10. Prepare Personality Cards**
 Place the Personality cards near the play area.
+
+**11. Prepare Token Supply**
+Place all Gift tokens, Coin tokens, and Wedding Planner effort trackers in a shared supply near the central board.
 
 ### Player Setup
 
@@ -451,7 +455,7 @@ Wedding Planners offer professional services that ease the planning process, for
 
 ### Contracting
 
-At setup, you received one of eight Wedding Planner contracts. At any point during the game, on your turn, you may pay 3 coins to contract with your planner. This does not consume your action.
+At setup, you received one of eight Wedding Planner contracts. At any point during the game, on your turn, you may pay 3 coins to contract with your planner. Take 3 effort trackers from the shared supply and place them on your contract. This does not consume your action.
 
 Contracting is permanent. While contracted, your wedding may include at most one DIY vendor in total.
 
@@ -461,7 +465,7 @@ Contracting is permanent. While contracted, your wedding may include at most one
 When you reach excitement milestones and choose to draw a card, you may instead take a card from the Featured Vendor Row.
 
 **Service 2: Coordination**
-You receive a pool of 3 effort tracked on your Wedding Planner contract. During a Plan action, you may spend one or more of this effort on any unlocked, non-key tasks in addition to your normal 3 effort. Remove a cube each time effort is used. Once all 3 cubes are spent, this service is exhausted.
+You receive a pool of 3 effort tracked on your Wedding Planner contract. During a Plan action, you may spend one or more of this effort on any unlocked, non-key tasks in addition to your normal 3 effort. Remove a tracker each time effort is used. Once all 3 trackers are spent, this service is exhausted.
 
 **Service 3: Exclusive Access**
 Your exclusive venue is sleeved onto your contract and visible from the start of the game, giving you a preview before you decide to contract. It does not count toward your hand limit. When you book it, take it from the sleeve and book as normal. The exclusive venue may not be booked as DIY.
