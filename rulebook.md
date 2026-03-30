@@ -338,7 +338,7 @@ Place the card in your next available helper slot on your player board:
 - **Face-down** if fully resolved
 - **Face-up** if the effect is delayed or a commitment is still pending
 
-**Helper Limit:** You may have at most 3 helpers total. Once all three slots are filled, you cannot take the Help action again.
+**Helper Limit:** You may have at most 3 helpers total. When you fill your third slot, immediately take an Any Action bonus. Once all three slots are filled, you cannot take the Help action again.
 
 **Empty Decks:** Once a Help deck is empty, it remains empty for the rest of the game.
 
@@ -418,7 +418,7 @@ Venues are the centerpiece of your wedding, the physical space where your ceremo
 - Venues **must be booked in the center position** of your 3×3 grid
 - You **must book exactly 1 venue** per wedding
 - If you reach end of game without booking a venue, there is no wedding. You cannot win.
-- The center position grants the **"Any Action" bonus** when booked
+- The center position grants the **"Any Action" bonus** when booked -- take any one action as a bonus without moving your meeple
 
 ### When Booked Effects
 
@@ -653,13 +653,19 @@ After everyone completes Month 12, the game ends. **There is no Check-In after M
 
 Begin with the gifts already collected from moments, completed tasks, and the race award, then proceed in order:
 
-#### 1. Convert Excitement
+#### 1. Reveal Vision Board
+Reveal your Theme card and all goals if still face-down.
+
+#### 2. Convert Excitement
 Gain gifts equal to your final excitement.
 
-#### 2. Goals
-Reveal all 3 of your goals and evaluate whether you achieved them. Check for the Balanced bonus.
+#### 3. Resolve Pending Helpers
+Check any face-up helper cards. Resolve any endgame penalties for unfulfilled commitments.
 
-#### 3. Awards
+#### 4. Goals
+Evaluate whether you achieved each of your 3 goals. Check for the Balanced bonus.
+
+#### 5. Awards
 Evaluate the Endgame Award and give all award winners 5 gifts.
 
 ### Total Scores
@@ -712,9 +718,11 @@ After scoring, return the following before storing the game:
 6. Seed new FVR (5 cards)
 
 ### Scoring Summary
-1. **Excitement:** Gain gifts equal to your final excitement
-2. **Goals:** Evaluate the 3 goals set at Check-In
-3. **Awards:** Determine the Endgame Award recipient
+1. **Reveal Vision Board:** Reveal Theme card and all goals
+2. **Excitement:** Gain gifts equal to your final excitement
+3. **Helpers:** Resolve any endgame penalties
+4. **Goals:** Evaluate the 3 goals set at Check-In
+5. **Awards:** Determine the Endgame Award recipient
 
 **Tiebreaker:** Most vendors → Most tasks → Highest excitement → Shared victory
 
