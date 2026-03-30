@@ -24,7 +24,20 @@ Win by collecting the most gifts. Gifts come from building excitement, completin
 
 After your turn, play passes clockwise. After all players have taken their turn, advance the timeline token. After months 3, 6, and 9, the token lands on a Check-In space — pause for a Check-In before continuing.
 
-**The game plays over 12 months in 4 quarters.** After months 3, 6, and 9, everyone pauses for a Check-In (see back).
+**The game plays over 12 months in 4 quarters.** After months 3, 6, and 9, everyone pauses for a Check-In.
+
+---
+
+**CHECK-IN (after months 3, 6, 9)**
+1. Move your meeple to your Vision area
+2. Set your theme * (Check-In 1 only)
+3. Set a new goal *
+
+4. Clear the FVR
+5. Pass first player token
+6. New first player seeds the FVR (5 vendors from 5 different categories)
+
+*When setting your theme or a goal, place it face-down (private) or face-up (public). Public themes and goals immediately gain 1 excitement.
 
 ---
 
@@ -64,18 +77,7 @@ If the helper effect is delayed, keep the card face-up as a reminder. Otherwise,
 
 ---
 
-## BACK — CHECK-INS & SCORING
-
-**CHECK-IN (after months 3, 6, 9)**
-1. Move your meeple to your Vision area
-2. Set your theme * (Check-In 1 only)
-3. Set a new goal *
-
-4. Clear the FVR
-5. Pass first player token
-6. New first player seeds the FVR (5 vendors from 5 different categories)
-
-*When setting your theme or a goal, place it face-down (private) or face-up (public). Public themes and goals immediately gain 1 excitement.
+## BACK — SCORING & ICONS
 
 **END GAME SCORING**
 After month 12, skip the Check-In and proceed to final scoring.
@@ -89,7 +91,24 @@ After month 12, skip the Check-In and proceed to final scoring.
 
 **Tiebreaker:** Most vendors → most tasks → highest excitement → shared victory
 
-**ICONOGRAPHY**
+**GOALS**
+
+**Theme** — your 2 theme elements vs. your 3 others
+Unforgettable 30 · Thematic 20 · Coordinated 15 · Subtle 10
+Balanced bonus: +5 if both theme elements are exactly equal
+
+**Budget** — most booked cards at your chosen cost tier (DIY excluded, ties count)
+Extravagant 15 · Refined 10 · Modest 5
+
+**Excitement** — most booked cards at your chosen excitement tier (DIY excluded, ties count)
+Spectacular 15 · Vibrant 10 · Intimate 5
+
+**Guest** — vendors in your chosen category
+3+: 15 · 2: 10 · 1: 5
+
+---
+
+**ICONS**
 - Gold coin = Coin
 - Blue burst = Excitement
 - Gift box = Gifts

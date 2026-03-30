@@ -654,7 +654,7 @@ Gain gifts equal to your final excitement.
 Reveal all 3 of your goals and evaluate whether you achieved them. Check for the Balanced bonus.
 
 #### 3. Awards
-Evaluate the Endgame Award and give the award winner 5 gifts.
+Evaluate the Endgame Award and give all award winners 5 gifts.
 
 ### Total Scores
 Count up your gifts and compare your totals.
