@@ -278,9 +278,9 @@ Immediately take the bonus action shown on the grid space where you booked. Do n
 
 > **DIY Bookings**
 >
-> Instead of paying a vendor's cost and booking face-up, you may book any vendor **face-down as DIY** for free. DIY represents doing it yourself or calling on family and friends rather than hiring a professional.
+> Instead of paying a vendor's cost and booking face-up, you may book any vendor or venue **face-down as DIY** for free. Exclusive venues may not be DIY'd. DIY represents doing it yourself or calling on family and friends rather than hiring a professional.
 >
-> DIY bookings still complete moments, trigger grid bonus actions, unlock task dependencies, and contribute to guest goals.
+> DIY bookings still complete moments, trigger grid bonus actions, unlock task dependencies, and contribute to guest goals. They do not trigger When Booked effects, grant theme elements, or grant excitement.
 
 > **Book in Action: Frankie's DIY Florist**
 >
@@ -387,7 +387,7 @@ Your player board has 5 theme element trackers (Whimsy, Edge, Nature, Tradition,
 **Gaining Theme Elements:**
 When you book a vendor or venue face-up, advance each theme element tracker shown on the card by 1. For each **Wild** icon, choose any tracker to advance by 1. Trackers stop at position 8. No further progress or bonuses beyond that.
 
-**DIY vendors grant no theme elements.**
+**DIY bookings grant no theme elements.**
 
 **Milestones:**
 - **Position 2 or 5:** Gain 1 excitement immediately
@@ -404,6 +404,8 @@ Your excitement track runs from 0-30. At every 5 positions (5, 10, 15, 20, 25, 3
 - Draw 1 venue or any vendor (top card of any deck)
 
 **If contracted with your wedding planner:** You may draw from the Featured Vendor Row instead.
+
+**DIY bookings grant no excitement.**
 
 ---
 
@@ -457,7 +459,7 @@ Wedding Planners offer professional services that ease the planning process, for
 
 At setup, you received one of eight Wedding Planner contracts. At any point during the game, on your turn, you may pay 3 coins to contract with your planner. Take 3 effort trackers from the shared supply and place them on your contract. This does not consume your action.
 
-Contracting is permanent. While contracted, your wedding may include at most one DIY vendor in total.
+Contracting is permanent. While contracted, your wedding may include at most one DIY vendor in total. You may not contract if you already have two or more DIY bookings.
 
 ### The Three Services
 
@@ -623,13 +625,13 @@ At Check-In, choose one of these 9 Guest Goals:
 
 ## 14. AWARDS
 
-There are two types of awards: Race Awards and Endgame Awards. Race Awards go to the first player to achieve a specific milestone. If multiple players reach it in the same month, all of them receive it. Endgame Awards are evaluated at the end of the game and go to whoever best meets the condition. If tied, all tied players receive it.
+There are two types of awards: Race Awards and Endgame Awards. Race Awards go to the first player to achieve a specific milestone. Check for Race Award completion immediately after any booking, task completion, excitement gain, or other relevant effect. If multiple players reach it in the same month, all of them receive it. Endgame Awards are evaluated at the end of the game and go to whoever best meets the condition. If tied, all tied players receive it.
 
 ### Race Awards (7 gifts)
 
 - **First Spark** -- Be the first player to reach 12 excitement
 - **Ahead of Schedule** -- Be the first player to complete 8 tasks
-- **Booking Momentum** -- Be the first player to book 4 vendors
+- **Booking Momentum** -- Be the first player to book 4 vendors face-up
 - **DIY Sprint** -- Be the first player to DIY 3 vendors
 - **Theme Breakthrough** -- Be the first player to reach 5 on any one theme element track
 
@@ -638,8 +640,8 @@ There are two types of awards: Race Awards and Endgame Awards. Race Awards go to
 - **Most Well-Rounded** -- Have the most different vendor categories among your vendors (including DIY)
 - **Most On-Theme Vendors** -- Have the most vendors matching at least one of your chosen theme elements
 - **Most Planned** -- Have the highest number of completed tasks
-- **Most Balanced Theme** -- Your weakest theme element is stronger than every other player's
-- **Strongest Theme Element** -- Your strongest theme element is stronger than every other player's
+- **Most Balanced Theme** -- Your weakest theme element is stronger than every other player's weakest theme element
+- **Strongest Theme Element** -- Your strongest theme element is stronger than every other player's strongest theme element
 
 ---
 
