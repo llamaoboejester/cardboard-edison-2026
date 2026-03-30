@@ -194,7 +194,7 @@ Some effects grant **bonus actions**. Resolve them normally, but do **not** move
 
 #### 4. Check Hand Limit
 
-At the end of your turn, discard any excess cards face-up to the Featured Vendor Row (hand limit: 5 cards total). You may have at most 3 venue cards in hand at any time. Once you book a venue, immediately discard all remaining venues from your hand to the Featured Vendor Row.
+At the end of your turn, discard any excess cards face-up to the Featured Vendor Row (hand limit: 5 vendor and venue cards total). You may have at most 3 venue cards in hand at any time. Once you book a venue, immediately discard all remaining venues from your hand to the Featured Vendor Row.
 
 ### Quarters and Check-Ins
 
@@ -315,7 +315,7 @@ When all effort boxes on a task are filled, it completes. Gain its gifts, resolv
 **Key tasks** are marked on the worksheet. Completing a key task unlocks the next group of dependent tasks. Key tasks can only be worked on by you, not by helpers or your wedding planner.
 
 **3. Wedding Planner Effort (Optional)**
-If contracted with your wedding planner, you have a separate pool of 3 effort cubes that can be applied to any unlocked, non-key task during any Plan action.
+If contracted with your wedding planner, you have a separate pool of 3 effort trackers that can be applied to any unlocked, non-key task during any Plan action.
 
 ---
 
