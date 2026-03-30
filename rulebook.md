@@ -399,7 +399,7 @@ When you book a vendor or venue face-up, advance each theme element tracker show
 
 **Excitement** represents the buzz and anticipation building for your wedding. It is gained from bookings, milestones, and other effects throughout the game. At game end, your final excitement position converts directly to gifts.
 
-Your excitement track runs from 0-30. At every 5 positions (5, 10, 15, 20, 25, 30), choose one:
+Your excitement track runs from 0-30. The tracker stops at position 30. No further progress or bonuses beyond that. At every 5 positions (5, 10, 15, 20, 25, 30), choose one:
 - Gain 1 coin, OR
 - Draw 1 venue or any vendor (top card of any deck)
 
