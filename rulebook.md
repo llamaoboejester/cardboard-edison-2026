@@ -6,7 +6,7 @@
 
 ## 1. INTRODUCTION
 
-You just got engaged! You have exactly one year to plan the wedding of your dreams. Research venues and vendors, book them into your wedding, tackle the never-ending to-do list, and lean on friends and family when it gets overwhelming, all while building excitement for the big day.
+Congratulations! You just got engaged. Now you have 12 months to plan the wedding of your dreams. Research venues and vendors, book them into your wedding, tackle the never-ending to-do list, and lean on friends and family when it gets overwhelming, all while building excitement for the big day.
 
 The game plays over **12 months** organized into **4 quarters**. Between quarters, you'll pause for a **Check-In** to set goals and prepare for the next quarter.
 
